@@ -1,6 +1,4 @@
 # 说明
-直接fork from https://github.com/wowchemy/starter-hugo-academic， 避免源代码的更新
-
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
