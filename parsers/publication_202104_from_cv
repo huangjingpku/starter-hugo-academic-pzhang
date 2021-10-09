@@ -34,7 +34,7 @@
 
 18.	Long-an Ying and Pingwen Zhang, Vanishing Curvature Viscosity for Front propagation, Journal of Di . Eqs. 161, 289-306 (2000).
 
-19.	Pingwen Zhang and Yu Zhang, Wavelet Boundary Element Methods, J. Comput. Math. Vol.18, No.1 25-42 (2000).
+19.	Pingwen Zhang and Yu Zhang, Wavelet Method for Boundary Integral Equations, J. Comput. Math. Vol.18, No.1 25-42 (2000).
 
 20.	Tao Tang, Weimin Xue and Pingwen Zhang, Analysis of Moving Mesh Methods Based on Geometrical Variables, J. Comp. Math. Vol. 19, No.1, 41-54 (2001).
 
@@ -58,9 +58,9 @@
 
 30.	Q. Wang, W. E, C. Liu and P. Zhang, Kinetic Theories for Flows of Nonhomogeneous Rodlike Liquid Crystalline Polymers with a Nonlocal Intermolecular Potential, Physical Review E, Vol. 65, 051504 (2002).
 
-31.	Weinan E, Tiejun Li and Pingwen Zhang, Convergence of a stochastic method for the modeling of polymeric uids, Acta Mathematicae Applicatae Sinica English Series, Vol. 18 529-536 (2002).
+31.	Weinan E, Tiejun Li and Pingwen Zhang, Convergence of a stochastic method for the modeling of polymeric fluids, Acta Mathematicae Applicatae Sinica English Series, Vol. 18 529-536 (2002).
 
-32.	Thomas Y. Hou, Gang Hu and Pingwen Zhang, Singularity Formulation of 3D Vortex Sheets, Physics of Fluids, Vol. 15, No. 1, 147-172 (2003).
+32.	Thomas Y. Hou, Gang Hu and Pingwen Zhang, Singularity Formulation in Three-dimensional Vortex Sheets, Physics of Fluids, Vol. 15, No. 1, 147-172 (2002).
 
 33.	Pingwen Zhang, Yi Sun, Haiyan Jiang and Wei Yao, Multi-scale Methods for Inverse Modeling in 1-D Mos Capacitor, Journal of Computational Mathematics, Vol. 21, No. 1, 85-100, (2003).
 
@@ -68,15 +68,15 @@
 
 35.	Yingxion Xiao, Shi Shu, Pingwen Zhang, Zeyao Mo and Jinchao Xu, A kind of semi-roarsing AMG method for two dimensional energy equations with three temperatures, Numerical Computation and Application of Computer, Vol. 4, 293-303, (2003)
 
-36.	Hui Zhang and Pingwen Zhang, A theoretical and numerical study for the rod-like model of a polymeric uid, Journal of Computational Mathematics, Vol. 22 No. 2, 319-330, (2004)
+36.	Hui Zhang and Pingwen Zhang, A theoretical and numerical study for the rod-like model of a polymeric fluid, Journal of Computational Mathematics, Vol. 22 No. 2, 319-330, (2004)
 
 37.	Daming Li, Ruo Li and Pingwen Zhang, A new coupled model for alloy solidi cation Science in China series A-Mathematics, 47: 41-52 Suppl. S APR, (2004)
 
-38.	Wienan E, Tiejun Li and Pingwen Zhang, Well-posedness for the dumbbell model of poly-meric uids, Communications in mathematical physics 248 (2): 409-427, (2004)
+38.	Wienan E, Tiejun Li and Pingwen Zhang, Well-posedness for the dumbbell model of polymeric fluids, Communications in mathematical physics 248 (2): 409-427, (2004)
 
-39.	Tiejun Li, Hui Zhang and Pingwen Zhang, Local existence for the dumbbell model of polymeric uids, Communications in Partial Di erential Equations 29 (5-6): 903-923, (2004)
+39.	Tiejun Li, Hui Zhang and Pingwen Zhang, Local existence for the dumbbell model of polymeric fluids, Communications in Partial Di erential Equations 29 (5-6): 903-923, (2004)
 
-40.	Tiejun Li, Eric Vanden-Eijnden, Pingwen Zhang and Weinan E, Stochastic models of polymeric liquids at small Deborah number, Journal of Non-Newtonian Fluid Mechanics 121, 117-125, (2004)
+40.	Tiejun Li, Eric Vanden-Eijnden, Pingwen Zhang and Weinan E, Stochastic models of polymeric fluids at small Deborah number, Journal of Non-Newtonian Fluid Mechanics 121, 117-125, (2004)
 
 41.	Tiejun Li, Pingwen Zhang and Xiang Zhou, Analysis of 1+1 dimensional stochastic models of liquid crystal polymer flows, Communications in Mathematical Sciences 2295-316, (2004)
 
@@ -90,11 +90,11 @@
 
 46.	Tiao Lu, Wei Cai and Pingwen Zhang, Discontinuous Galerkin time-domain method for GPR simulation in dispersive media, IEEE Transactions on Geoscience and Remote Sensing, 43 (1): 72-80, (2005)
 
-47.	Yana Di, Ruo Li, Tao Tang and Pingwen Zhang, Moving mesh nite element methods for the incompressible Navier-Stokes equations, SIAM Journal on ScientificComputing, 26	(3): 1036-1056, (2005)
+47.	Yana Di, Ruo Li, Tao Tang and Pingwen Zhang, Moving mesh finite element methods for the incompressible Navier-Stokes equations, SIAM Journal on ScientificComputing, 26	(3): 1036-1056, (2005)
 
-48.	Hailiang Liu, Hui Zhang and Pingwen Zhang, Axial symmetry and classi cation of stationary solutions of Doi-Onsager equation on the sphere with Maier-Saupe potential, Communications in Mathematical Sciences,3 201-218, (2005)
+48.	Hailiang Liu, Hui Zhang and Pingwen Zhang, Axial symmetry and classification of stationary solutions of Doi-Onsager equation on the sphere with Maier-Saupe potential, Communications in Mathematical Sciences,3 201-218, (2005)
 
-49.	Xia Ji, Tiao Lu T, Wei Cai and PingwenZhang, Discontinuous Galerkin time domain (DGTD) methods for the study of 2-D waveguide-coupled microring resonators, Journal of Lightwave Technology, 23 (11): 3864-3874 (2005)
+49.	Xia Ji, Tiao Lu T, Wei Cai and PingwenZhang, Discontinuous Galerkin time domain(DGTD) methods for the study of 2-D waveguide-coupled microring resonators, Journal of Lightwave Technology, 23 (11): 3864-3874 (2005)
 
 50.	Haiyang Jiang and Pingwen Zhang, Model analysis and parameter extraction for MOS capacitor including quantum mechanical effects, Journal of Computational Mathematics, 24 (3): 401-411 MAY (2006)
 
@@ -102,21 +102,21 @@
 
 52.	Hui Zhang and Pingwen Zhang, Local existence for the FENE-dumbbell model of polymeric fluids, Archive for Rational Mechanics and Analysis, 181 (2): 373-400 JUL (2006)
 
-53.	Dongzhuo Zhou, Pingwen Zhang and Weinan E, Modi ed models of polymer phase separation, Physical Review E, 73 (6): Art. No. 061801 Part 1 JUN (2006)
+53.	Dongzhuo Zhou, Pingwen Zhang and Weinan E, Modified models of polymer phase separation, Physical Review E, 73 (6): Art. No. 061801 Part 1 JUN (2006)
 
 54.	Yana Di and Pingwen Zhang, Moving mesh kinetic simulation for sheared rodlike polymers with high potential intensities, Communications in Computational Physics, 1 859-873	(2006)
 
-55.	Yana Di, Ruo Li, Tao Tang, and Pingwen Zhang, Moving mesh methods for singular problems on a sphere using perturbed harmonic mappings, SIAM Journal on Scientific Computing, 28, 1490-1508. (2006)
+55.	Yana Di, Ruo Li, Tao Tang and Pingwen Zhang, Moving mesh methods for singular problems on a sphere using perturbed harmonic mappings, SIAM Journal on Scientific Computing, 28, 1490-1508. (2006)
 
-56.	Guanghua Ji, Qi Wang, Pingwen Zhang and Hong Zhou, Study of phase transition in homogeneous, rigid extended nematics and magnetic suspensions using an order-reduction method, Physics of Fluids, 18, 123103 (2006)
+56.	Guanghua Ji, Qi Wang, Pingwen Zhang and Hong Zhou, Study of phase transition in homogeneous rigid extended nematics and magnetic suspensions using an order-reduction method, Physics of Fluids, 18, 123103 (2006)
 
 57.	Weinan E and Pingwen Zhang, A Molecular Kinetic Theory of Inhomogeneous Liquid Crystal Flow and the Small Deborah Number Limit, Methods and Applications of Analysis Vol. 13, No. 2, 181-198, JUN (2006)
 
 58.	Pingbing Ming and Pingwen Zhang, Analysis of the heterogeneous multiscale method for parabolic homogenization problems, Mathematics of Computation, 76 (257): 153-177 (2007)
 
-59.	Xia Ji, Wei Cai and Pingwen Zhang, High order DGTD methods for dispersive Maxwell's equations and modeling of silver nanowire Coupling, International Journal for Numerical Methods in Engineering 69, 308-325 (2007)
+59.	Xia Ji, Wei Cai and Pingwen Zhang, High-order DGTD methods for dispersive Maxwell's equations and modeling of silver nanowire Coupling, International Journal for Numerical Methods in Engineering 69, 308-325 (2007)
 
-60.	Haijun Yu and Pingwen Zhang, A kinetic-hydrodynamic simulation of microstructure of liquid crystal polymers in plane shear ow, Journal of Non-Newtonian Fluid Mechanics, 141 (2): 116-127 FEB 15 (2007)
+60.	Haijun Yu and Pingwen Zhang, A kinetic-hydrodynamic simulation of microstructure of liquid crystal polymers in plane shear flow, Journal of Non-Newtonian Fluid Mechanics, 141 (2): 116-127 FEB 15 (2007)
 
 61.	Daming Li, Ruo Li and Pingwen Zhang, A cellular automaton technique for modelling of a binary dendritic growth with convection, Applied Mathematical Modelling, 31 (6): 971-982 JUN (2007)
 
@@ -126,13 +126,13 @@
 
 64.	Dan Hu, Pingwen Zhang and Weinan E, Continuum theory of a moving membrane, Phys-ical Review E, 75 (4): Art. No. 041605 Part 1 APR (2007)
 
-65.	Hui Zhang and Pingwen Zhang, Stable dynamic states at the nematic liquid crystals in weak shear ow, Physica D-Nonlinear Phenoma, 232 (2): 156-165 (2007)
+65.	Hui Zhang and Pingwen Zhang, Stable dynamic states at the nematic liquid crystals in weak shear flow, Physica D-Nonlinear Phenoma, 232 (2): 156-165 (2007)
 
 66.	Congmin Wu, Tiezhen Qian and Pingwen Zhang, Non-equilibrium molecular-dynamics measurement of the Leslie coefficients of a Gay-Berne nematic liquid crystal, Liquid Crystals, 34 (10): 1175-1184 (2007)
 
-67.	Guanghua Ji, Qi Wang, Pingwen Zhang, Hongyun Wang and Hong Zhou, Steady states and their stability of homogeneous, rigid, extended nematic polymers under imposed magnetic fields, Communications in Mathematical Sciences, 5 (4): 917-950 DEC (2007)
+67.	Guanghua Ji, Qi Wang, Pingwen Zhang, Hongyun Wang and Hong Zhou, Steady states and their stability of homogeneous rigid extended nematic polymers under imposed magnetic fields, Communications in Mathematical Sciences, 5 (4): 917-950 DEC (2007)
 
-68.	Guoxian Chen, Huazhong Tang and Pingwen Zhang, Second-order accurate Godunov scheme for multicomponent ows on moving triangular meshes, Journal of Scientific Computing, Vol 34 64-86 (2008)
+68.	Guoxian Chen, Huazhong Tang and Pingwen Zhang, Second-order accurate Godunov scheme for multicomponent flows on moving triangular meshes, Journal of Scientific Computing, Vol 34 64-86 (2008)
 
 69.	Lingyun Zhang, Hui Zhang and Pingwen Zhang, Global existence of weak solutions to the regularized Hookean dumbbell model, Communications in Mathematical Sciences, 6(1): 85-124 (2008)
 
@@ -140,13 +140,13 @@
 
 71.	Pingwen Zhang and Xinwei Zhang, An efficient numerical method of Landau-Brazovskii model, Journal of Computational Physics, 227 (11) 5859-5870 (2008)
 
-72.	Peng Song and Pingwen Zhang, Numerical simulation of uid membranes in two-dimensional space, Communications in Computational Physics, 3(4) 794-821 (2008)
+72.	Peng Song and Pingwen Zhang, Numerical simulation of fluid membranes in two-dimensional space, Communications in Computational Physics, 3(4) 794-821 (2008)
 
 73.	Xia Ji, Wei Cai and Pingwen Zhang, Reflection/transmission characteristics of a dis-continuous Galerkin method for Maxwell's equations in dispersive inhomogeneous media, Journal of Computational Mathematics, 26 (3): 347-364 MAY (2008)
 
-74.	Haiyan Jiang, Sihong Shou, Wei Cai and Pingwen Zhang, Boundary treatments in non-equilibrium Green's function (NEGF) methods for quantum transport in nano-MOSFETs, Journal of Computational Physics, 227 (13) 6553-6573 (2008)
+74.	Haiyan Jiang, Sihong Shou, Wei Cai and Pingwen Zhang, Boundary treatments in non-equilibrium Green's function(NEGF) methods for quantum transport in nano-MOSFETs, Journal of Computational Physics, 227 (13) 6553-6573 (2008)
 
-75.	Yan Ding, Tiehjun Li, Dongxiao Zhang and Pingwen Zhang, Adaptive Stroud stochastic collocation method for ow in random porous media via Karhunen-Loeve expansion, Communications in Computational Physics, 4(1) 102-123 (2008)
+75.	Yan Ding, Tiehjun Li, Dongxiao Zhang and Pingwen Zhang, Adaptive Stroud stochastic collocation method for flow in random porous media via Karhunen-Loeve expansion, Communications in Computational Physics, 4(1) 102-123 (2008)
 
 76.	Dongzhuo Zhou, An-Chang Shi and Pingwen Zhang, Numerical simulation of phase separation coupled with crystallization, Journal of Chemical Physics, 129, 154901, (2008)
 
@@ -168,29 +168,29 @@
 
 85.	Chu Wang, Kai Jiang, Pingwen Zhang and An-Chang Shi, Origin of epitaxies between ordered phases of block copolymers, Soft Matter 7, 10552-10555, (2011).
 
-86.	Tiao Lu, Gang Du, Xiaoyan Liu, Pingwen Zhang, A Finite Volume Method for the Multi Sub band Boltzmann Equation with Realistic 2D Scattering in Double Gate MOSFETs, Communications in Computational Physics, 10, 305-338, (2011).
+86.	Tiao Lu, Gang Du, Xiaoyan Liu and Pingwen Zhang, A Finite Volume Method for the Multi Subband Boltzmann Equation with Realistic 2D Scattering in Double Gate MOSFETs, Communications in Computational Physics, 10, 305-338, (2011).
 
-87.	Han Wang, Site Luigi Delle, Pingwen Zhang, On the existence of a third-order phase transition beyond the Andrews critical point: A molecular dynamics study, Journal of Chemical Physics, 135, 224506, (2011)
+87.	Han Wang, Site Luigi Delle and Pingwen Zhang, On the existence of a third-order phase transition beyond the Andrews critical point: A molecular dynamics study, Journal of Chemical Physics, 135, 224506, (2011)
 
-88.	Han Wang, Pingwen Zhang, Christof Schuette, On the Numerical Accuracy of Ewald, Smooth Particle Mesh Ewald, and Staggered Mesh Ewald Methods for Correlated Molecular Systems, Journal of Chemical Theory and Computation, 8(9), 3243-3256, (2012).
+88.	Han Wang, Pingwen Zhang and Christof Schuette, On the Numerical Accuracy of Ewald Smooth Particle Mesh Ewald and Staggered Mesh Ewald Methods for Correlated Molecular Systems, Journal of Chemical Theory and Computation, 8(9), 3243-3256, (2012).
 
-89.	Han Wang, Christof Schuette, Pingwen Zhang, Error estimate of short-range force calculation in inhomogeneous molecular systems, Physical Review E, 86(2), 026704, (2012).
+89.	Han Wang, Christof Schuette and Pingwen Zhang, Error estimate of short-range force calculation in inhomogeneous molecular systems, Physical Review E, 86(2), 026704, (2012).
 
-90.	Wei Wang, Pingwen Zhang, Zhifei Zhang, Well-Posedness of Hydrodynamics on the Moving Elastic Surface, Archive for Rational Mechanics and Analysis, 206(3), 953-995, (2012).
+90.	Wei Wang, Pingwen Zhang and Zhifei Zhang, Well-Posedness of Hydrodynamics on the Moving Elastic Surface, Archive for Rational Mechanics and Analysis, 206(3), 953-995, (2012).
 
-91.	Wei Zhang, Tiejun Li, Pingwen Zhang, Numerical Study for the Nucleation of One-Dimensional Stochastic Cahn-Hilliard Dynamics, Communications in Mathematical Sciences, 10(4), 1105-1132, (2012).
+91.	Wei Zhang, Tiejun Li and Pingwen Zhang, Numerical Study for the Nucleation of One-Dimensional Stochastic Cahn-Hilliard Dynamics, Communications in Mathematical Sciences, 10(4), 1105-1132, (2012).
 
 92.	Peiwen Ji, Song Jiang and Pingwen Zhang, Computable Modeling (Chinese), SCIENCE CHINA Mathematics, 42(6), 1-18, (2012).
 
 93.	Tiejun Li, Pingwen Zhang and Wei Zhang, Nucleation Rate Calculation for the Phase Transition of Diblock Copolymers under Stochastic Cahn-Hilliard Dynamics, Multiscale Modeling & Simulation, 11 (1), 385-409 (2013).
 
-94.	Gai Liu, Gang Du, Tiao Lu, Xiaoyan Liu, Pingwen Zhang, Xing Zhang, Simulation Study of Quasi-Ballistic Transport in Asymmetric DG-MOSFET by Directly Solving Boltzmann Transport Equation, IEEE Transactions on Nanotechnology, 12 (2), 168-173 (2013).
+94.	Gai Liu, Gang Du, Tiao Lu, Xiaoyan Liu, Pingwen Zhang and Xing Zhang, Simulation Study of Quasi-Ballistic Transport in Asymmetric DG-MOSFET by Directly Solving Boltzmann Transport Equation, IEEE Transactions on Nanotechnology, 12 (2), 168-173 (2013).
 
 95.	Han Wang Dan Hu and Pingwen Zhang, Measuring the Spontaneous Curvature of Bilayer Membranes by Molecular Dynamics Simulations, Communications in Computational Physics, 13 (4), 1093-1106, (2013).
 
 96.	Weiquan Xu, Kai Jiang, Pingwen Zhang and An-Chang Shi, A Strategy to Explore Stable and Metastable Ordered Phases of Block Copolymers, Journal of Physical Chemistry B, 117 (17), 5296-5405, (2013).
 
-97.	Qin Liang, Jianfeng Li, Pingwen Zhang and Je Z.Y. Chen, Modi ed Di usion Equation for the Wormlike-chain Statistics in Curvilinear Coordinates, Journal of Chemical Physics, 138 (24), 244910, (2013).
+97.	Qin Liang, Jianfeng Li, Pingwen Zhang and Je Z.Y. Chen, Modified Diffusion Equation for the Wormlike-chain Statistics in Curvilinear Coordinates, Journal of Chemical Physics, 138 (24), 244910, (2013).
 
 98.	Kai Jiang, Chu Wang, Yunqing Huang and Pingwen Zhang, Discovery of New Metastable Patterns in Diblock Copolymers, Communications in Computational Physics, 14(2), 443-460, (2013).
 
@@ -200,9 +200,9 @@
 
 101.	Kai Jiang and Pingwen Zhang, Numerical Methods for Quasicrystals, Journal of Computational Physics, 256, 428-440, (2014).
 
-102.	Jinglong Zhu, Pingwen Zhang, Han Wang and Luigi Delle Site, Is There a Third Order Phase Transition for Supercritical Fluids? Journal of Chemical Physics, 140 (1), 014502, (2014).
+102.	Jinglong Zhu, Pingwen Zhang, Han Wang and Luigi Delle Site, Is There a Third Order Phase Transition for Supercritical Fluids?, Journal of Chemical Physics, 140 (1), 014502, (2014).
 
-103.	Jie Xu and Pingwen Zhang, From Microscopic Theory to Macroscopic Theory - Symmetries and Order Parameters of Rigid Molecules , Science China: Mathematics, 57(3), 443-468, (2014).
+103.	Jie Xu and Pingwen Zhang, From Microscopic Theory to Macroscopic Theory - Symmetries and Order Parameters of Rigid Molecules, Science China: Mathematics, 57(3), 443-468, (2014).
 
 104.	Hao Zhang, Kai Jiang and Pingwen Zhang, Dynamic Transition for Landau-Brazovskii Model, Discrete and Continuous Dynamical Systems - Series B, 19(2), 607-627, (2014).
 
@@ -242,7 +242,7 @@
 
 122.	Jie Xu and Pingwen Zhang, The Transmission of Symmetry of Liquid Crystals, Communications in Mathematical Sciences, 15 (1), 185-195, (2017).
 
-123.	Yang Qu, Ying Wei, and Pingwen Zhang, Transition of Defect Patterns from 2D to 3D in Liquid Crystals, Communications in Computational Physics, 21 (3), 890-904, (2017).
+123.	Yang Qu, Ying Wei and Pingwen Zhang, Transition of Defect Patterns from 2D to 3D in Liquid Crystals, Communications in Computational Physics, 21 (3), 890-904, (2017).
 
 
 124.	Kai Jiang, Pingwen Zhang and An-Chang Shi, Stability of Icosahedral Quasicrystals in a Simple Model with Two-Length Scales, Journal of Physics-Condensed Matter, 29 (12), 124003, (2017).

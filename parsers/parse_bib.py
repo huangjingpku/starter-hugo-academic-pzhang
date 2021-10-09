@@ -15,9 +15,36 @@ python3 parse_bib_cic.py -i static/bibtex/cic_papers.bib
 """
 
 import bibtexparser
-import os, sys, getopt
-from parsers.citation_generator import construct_citation
+import os, sys, getopt, shutil
+from citation_generator import construct_citation
 import datetime
+
+
+# 资源所在目录
+SRC_DIR='../static/publication/'
+DST_DIR='./publication/'
+
+# It takes the type of the bibtex entry and maps to a corresponding category of the academic theme
+# Publication type.
+# Legend:
+# 0 = Uncategorized;
+# 1 = Conference paper;
+# 2 = Journal article;
+# 3 = Preprint / Working Paper;
+# 4 = Report;
+# 5 = Book;
+# 6 = Book section;
+# 7 = Thesis;
+# 8 = Patent\n''')
+PUBTYPE_DICT = {
+    'forthcoming': '"0"',
+    'uncategorized': '"0"',
+    'preprint': '"3"',
+    'article': '"2"',
+    'inproceedings': '"1"',
+    'incollection': '"6"',
+    'thesis': '"7"'
+}
 
 
 def RepresentsInt(s):
@@ -31,6 +58,8 @@ def RepresentsInt(s):
 def supetrim(string):
     return string.replace("\\", "").replace("{", "").replace("}", "").replace("\n", " ")
 
+def abstract_trim(string):
+    return string.replace('"', "\\\"")
 
 def month_string_to_number(string):
     m = {
@@ -56,6 +85,7 @@ def month_string_to_number(string):
 
 
 # You can add the name of a co-author and their website and it will create a link on the publications website
+# useless
 def get_author_link(string):
     web = {
         # 'T. Gerstenberg':'https://tobiasgerstenberg.github.io/'
@@ -64,8 +94,150 @@ def get_author_link(string):
     try:
         out = web[string]
     except:
-        print("Author's " + string + " website is missing.")
+        pass
+        #print("Author's " + string + " website is missing.")
     return out
+
+
+def generate_id(title, year):
+    trim_words = ['of', 'on', 'in', 'for', 'with', 'a', 'and', 'or', 'to', 'the', 'an', 'at', 'via', 'by', 'from']
+    vs = []
+    for v in title.lower().split():
+        if v not in trim_words:
+            vs.append(v)
+    if year.strip() == '':
+        raise ValueError('Empty year. Please use this year instead')
+    try:
+        year = int(year)
+    except ValueError as e:
+        raise e
+    this_year = datetime.datetime.now().year
+    if year > this_year:
+        raise ValueError('{} must before this year {}'.format(year, this_year))
+
+    return str(year) + '_' + (''.join([v[0] for v in vs])).upper()
+
+def write_title(entry, the_file):
+    the_file.write(
+        '''# Publication type.
+        # Legend: 
+        # 0 = Uncategorized; 
+        # 1 = Conference paper; 
+        # 2 = Journal article;
+        # 3 = Preprint / Working Paper; 
+        # 4 = Report; 
+        # 5 = Book; 
+        # 6 = Book section;
+        # 7 = Thesis; 
+        # 8 = Patent\n''')
+    the_file.write('title = "' + supetrim(entry['title']) + '"\n')
+
+
+def write_date(entry, the_file):
+    if 'year' in entry:
+        yr = entry['year']
+        if RepresentsInt(yr):
+            date = yr
+            if 'month' in entry:
+                if RepresentsInt(entry['month']):
+                    month = entry['month']
+                else:
+                    month = str(month_string_to_number(entry['month']))
+                date = date + '-' + month.zfill(2)
+            else:
+                date = date + '-01'
+            the_file.write('date = "' + date + '-01"\n')
+        else:
+            dt = datetime.datetime.now()
+            date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
+            the_file.write('date = "' + date + '"\n')
+            the_file.write('year = "' + yr + '"\n')
+    else:
+        dt = datetime.datetime.now()
+        date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
+
+
+def write_author(entry, the_file):
+    # Treating the authors
+    if 'author' in entry:
+        authors = entry['author'].split(' and ')
+        the_file.write('authors = [')
+        authors_str = ''
+        for author in authors:
+            author_strip = supetrim(author)
+            #author_split = author_strip.split(',')
+            #if len(author_split) == 2:
+            #    author_strip = author_split[1].strip() + ' ' + author_split[0].strip()
+            #author_split = author_strip.split(' ')
+
+            # print(author_strip, author_split, entry['ID'])
+            #author_strip = author_split[0][0] + '. ' + ' '.join(map(str, author_split[1:]))
+            #author_web = get_author_link(author_strip)
+            #if author_web:
+            #    authors_str = authors_str + '"[' + author_strip + '](' + author_web + ')",'
+            authors_str = authors_str + '"' + author_strip + '",'
+        the_file.write(authors_str[:-1] + ']\n')
+
+
+def write_publication_type(entry, the_file):
+    # Treating the publication type
+    if 'ENTRYTYPE' in entry:
+        pub_type_entry = 'publication_types = [' + PUBTYPE_DICT[entry['ENTRYTYPE']] + ']\n'
+        if 'year' in entry:
+            if not RepresentsInt(entry['year']):
+                pub_type_entry = pub_type_entry.replace('[', '[' + PUBTYPE_DICT['forthcoming'] + ', ')
+
+        the_file.write(pub_type_entry)
+
+    else:
+        the_file.write('publication_types = [' + pubtype_dict[entry['uncategorized']] + ']\n')
+
+def write_publication_short(entry, the_file):
+    if 'booktitle' in entry:
+        the_file.write('publication_short = "' + supetrim(entry['booktitle']) + '"\n')
+    elif 'journal' in entry:
+        the_file.write('publication_short = "' + supetrim(entry['journal']) + '"\n')
+    elif 'school' in entry:
+        the_file.write('publication_short = "' + supetrim(entry['school']) + '"\n')
+    elif 'institution' in entry:
+        the_file.write('publication_short = "' + supetrim(entry['institution']) + '"\n')
+
+        # I never put the short version. In the future I will use a dictionary like the authors to set the acronyms of important conferences and journals
+        # Not sure what the above comment is about. This adds the citation to the markdown file
+
+
+def write_publication(entry, the_file):
+    the_file.write('publication = ' + construct_citation(entry) + '\n')
+
+
+def write_abstract(entry, the_file):
+    if 'abstract' in entry:
+        the_file.write('abstract = "' + abstract_trim(supetrim(entry['abstract'])) + '"\n')
+
+def write_doi(entry, the_file):
+    if 'doi' in entry:
+        the_file.write('doi = "' + supetrim(entry['doi']) + '"\n')
+
+def write_link(entry, the_file):
+    if 'link' in entry:
+        the_file.write('url_pdf = "'+supetrim(entry['link'])+'"\n')
+
+
+def write_selected(entry, the_file):
+    the_file.write('featured = false\n')
+
+def write_config(entry, the_file):
+    the_file.write('math = true\n')
+    the_file.write('highlight = true\n')
+
+
+def copy_file(src_file, dst_file, tag = 'pdf'):
+    if os.path.exists(src_file):
+        shutil.copyfile(src_file, dst_file)
+        sys.stderr.write('-- Generate {} Successful: {} from {}\n'.format(tag, dst_file, src_file))
+    else:
+        sys.stderr.write('-- Generate {} Failed: Can not find {}\n'.format(tag, dst_file))
+
 
 
 def main(argv):
@@ -78,7 +250,7 @@ def main(argv):
     for opt, arg in opts:
         if opt == '-h':
             print('parse_bib.py -i <inputfile>')
-            sys.exit()
+            sys.exit(2)
         elif opt in ("-i", "--ifile"):
             inputfile = arg
     return inputfile
@@ -91,163 +263,46 @@ if __name__ == "__main__":
             bibtex_str = bibtex_file.read()
     except EnvironmentError:  # parent of IOError, OSError *and* WindowsError where available
         print('File ' + inputfile + ' not found or some other error...')
+        exit(2)
 
-    # It takes the type of the bibtex entry and maps to a corresponding category of the academic theme
-    pubtype_dict = {
-        'forthcoming': '"0"',
-        'uncategorized': '"0"',
-        'preprint': '"1"',
-        'article': '"2"',
-        'inproceedings': '"3"',
-        'incollection': '"4"',
-        'thesis': '"5"'
-    }
 
     bib_database = bibtexparser.loads(bibtex_str)
 
     # loop over entries
     for entry in bib_database.entries:
-        filenm = 'content/publication/' + entry['ID'] + '.md'
+        id = generate_id(entry['title'], entry['year'])
+        filedir = '{}/{}/'.format(DST_DIR, id)
+        filenm = '{}/index.md'.format(filedir)
+        pdf_src = '{}/{}.pdf'.format(SRC_DIR, id)
+        pdf_dst = '{}/{}.pdf'.format(filedir, id)
+        img_src = '{}/{}.jpg'.format(SRC_DIR, id)
+        img_dst = '{}/featured.jpg'.format(filedir, id)
 
         # If the same publication exists, then skip the creation. I customize the .md files later, so I don't want them overwritten. Only new publications are created.
-        if os.path.isfile(filenm):
-            pass
+        if os.path.exists(filedir):
+            sys.stdout.write('Existed [{}] for [{}], Skip\n'.format(filedir, entry['title']))
         else:
+            sys.stdout.write('Generate DIR [{}] for [{}]\n'.format(filedir, entry['title']))
+            os.makedirs(filedir)
             with open(filenm, 'w', encoding="utf8") as the_file:
                 the_file.write('+++\n')
-                the_file.write(
-                    "# 0 -> 'Forthcoming',\n# 1 -> 'Preprint',\n# 2 -> 'Journal',\n# 3 -> 'Conference Proceedings',\n# 4 -> 'Book chapter',\n# 5 -> 'Thesis'\n\n")
-                the_file.write('title = "' + supetrim(entry['title']) + '"\n')
-                # print('Parsing ' + entry['ID'])
-
-                if 'year' in entry:
-                    yr = entry['year']
-                    if RepresentsInt(yr):
-                        date = yr
-                        if 'month' in entry:
-                            if RepresentsInt(entry['month']):
-                                month = entry['month']
-                            else:
-                                month = str(month_string_to_number(entry['month']))
-                            date = date + '-' + month.zfill(2)
-                        else:
-                            date = date + '-01'
-                        the_file.write('date = "' + date + '-01"\n')
-                    else:
-                        dt = datetime.datetime.now()
-                        date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
-                        the_file.write('date = "' + date + '"\n')
-                        the_file.write('year = "' + yr + '"\n')
-                else:
-                    dt = datetime.datetime.now()
-                    date = str(dt.year) + '-' + str(dt.month).zfill(2) + '-' + str(dt.day).zfill(2)
-
-                # Treating the authors
-                if 'author' in entry:
-                    authors = entry['author'].split(' and ')
-                    the_file.write('authors = [')
-                    authors_str = ''
-                    for author in authors:
-                        author_strip = supetrim(author)
-                        author_split = author_strip.split(',')
-                        if len(author_split) == 2:
-                            author_strip = author_split[1].strip() + ' ' + author_split[0].strip()
-                        author_split = author_strip.split(' ')
-                        author_strip = author_split[0][0] + '. ' + ' '.join(map(str, author_split[1:]))
-                        author_web = get_author_link(author_strip)
-                        if author_web:
-                            authors_str = authors_str + '"[' + author_strip + '](' + author_web + ')",'
-                        else:
-                            authors_str = authors_str + '"' + author_strip + '",'
-                    the_file.write(authors_str[:-1] + ']\n')
-
-                # Treating the publication type
-                if 'ENTRYTYPE' in entry:
-                    # This type of treatment seems like overkill given what we want to achieve
-                    # All we need to check is the ENTRYTYPE and then add whether it is forthcoming
-
-                    # if 'booktitle' in entry and ('Seminar' in supetrim(entry['booktitle'])):
-                    #     the_file.write('publication_types = ['+pubtype_dict['PW']+']\n')
-                    # elif 'booktitle' in entry and ('Workshop' in supetrim(entry['booktitle'])):
-                    #     the_file.write('publication_types = ['+pubtype_dict['conference']+']\n')
-                    # elif 'note' in entry and ('review' in supetrim(entry['note'])):
-                    #     the_file.write('publication_types = ['+pubtype_dict['submitted']+']\n')
-                    # elif 'note' in entry and ('Conditional' in supetrim(entry['note'])):
-                    #     the_file.write('publication_types = ['+pubtype_dict['submitted']+']\n')
-                    # else:
-                    #     the_file.write('publication_types = ['+pubtype_dict[entry['ENTRYTYPE']]+']\n')
-                    pub_type_entry = 'publication_types = [' + pubtype_dict[entry['ENTRYTYPE']] + ']\n'
-                    if 'year' in entry:
-                        if not RepresentsInt(entry['year']):
-                            pub_type_entry = pub_type_entry.replace('[', '[' + pubtype_dict['forthcoming'] + ', ')
-
-                    the_file.write(pub_type_entry)
-
-                else:
-                    the_file.write('publication_types = [' + pubtype_dict[entry['uncategorized']] + ']\n')
-
-                # Treating the publication journal, conference, etc.
-                if 'booktitle' in entry:
-                    the_file.write('publication_short = "_' + supetrim(entry['booktitle']) + '_"\n')
-                elif 'journal' in entry:
-                    the_file.write('publication_short = "_' + supetrim(entry['journal']) + '_"\n')
-                elif 'school' in entry:
-                    the_file.write('publication_short = "_' + supetrim(entry['school']) + '_"\n')
-                elif 'institution' in entry:
-                    the_file.write('publication_short = "_' + supetrim(entry['institution']) + '_"\n')
-
-                # I never put the short version. In the future I will use a dictionary like the authors to set the acronyms of important conferences and journals
-                # Not sure what the above comment is about. This adds the citation to the markdown file
-                the_file.write('publication = ' + construct_citation(entry) + '\n')
-
-                # Add the abstract if it's available in the bibtex
-                if 'abstract' in entry:
-                    the_file.write('abstract = "' + supetrim(entry['abstract']) + '"\n')
-
-                # Some features are disabled. I activate them later
-                the_file.write('image_preview = ""\n')
-                the_file.write('selected = false\n')
-                the_file.write('projects = []\n')
-
-                # Links (optional).
-                the_file.write('#url_pdf = "papers/' + entry['ID'] + '.pdf"\n')
-                the_file.write('url_preprint = ""\n')
-                the_file.write('url_code = ""\n')
-                the_file.write('url_dataset = ""\n')
-                the_file.write('url_slides = ""\n')
-                the_file.write('url_video = ""\n')
-                the_file.write('url_poster = ""\n')
-                the_file.write('url_source = ""\n')
-                the_file.write('#url_custom = [{name = "Github", url = ""}]\n')
-
-                # I add urls to the online version and the DOI
-                # if 'link' in entry:
-                #     the_file.write('url_pdf = "'+supetrim(entry['link'])+'"\n')
-                # if 'doi' in entry:
-                #     the_file.write('url_custom = [{name = "DOI", url = "'+'http://dx.doi.org/'+supetrim(entry['doi'])+'"}]\n')
-
-                # Default parameters that can be later castomized
-                the_file.write('math = true\n')
-                the_file.write('highlight = true\n')
-                the_file.write('[header]\n')
-                the_file.write('# image = "publications/' + entry['ID'] + '.png"\n')
-                the_file.write('caption = ""\n')
-
-                # I keep in my bibtex file a parameter called award for publications that received an award (e.g., best paper, etc.)
-                # if 'award' in entry:
-                #     the_file.write('award = "true"\n')
-
-                # I put the individual .bib entry to a file with the same name as the .md to create the CITE option
-                # db = BibDatabase()
-                # db.entries =[entry]
-                # writer = BibTexWriter()
-                # with open('static/files/citations/'+supetrim(entry['ID']+'.bib'), 'w', encoding="utf8") as bibfile:
-                #     bibfile.write(writer.write(db))
-
-                # the_file.write('+++\n\n')
-
-                # Any notes are copied to the main document
-                if 'note' in entry:
-                    strTemp = supetrim(entry['note'])
-                    the_file.write(strTemp + "\n")
+                write_title(entry, the_file)
+                write_date(entry, the_file)
+                write_author(entry, the_file)
+                write_publication_type(entry, the_file)
+                write_publication_short(entry, the_file)
+                write_publication(entry, the_file)
+                write_abstract(entry, the_file)
+                write_doi(entry, the_file)
+                write_link(entry, the_file)
+                write_config(entry, the_file)
+                # by default ,selected = false
+                write_selected(entry, the_file)
                 the_file.write('+++')
+                sys.stdout.write('-- Generate FILE [{}] Successful\n'.format(filenm))
+                copy_file(img_src, img_dst, 'IMG')
+                copy_file(pdf_src, pdf_dst, 'PDF')
+
+
+
+
