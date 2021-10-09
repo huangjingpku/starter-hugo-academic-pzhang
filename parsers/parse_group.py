@@ -71,7 +71,7 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv, "hi:l:", ["ifile="])
     except getopt.GetoptError:
-        print('parse_group.py -i <inputfile>')
+        print('parse_group.py -i <inputfile> -l <language en/zh>')
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
@@ -88,7 +88,7 @@ def generate_id(en_name):
 
 if __name__ == "__main__":
     inputfile, lang = main(sys.argv[1:])
-    if lang != 'en' and lang != 'ch':
+    if lang != 'en' and lang != 'zh':
         raise ValueError('Invalid lang [{}]'.format(lang))
 
     try:
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     for entry in group_str:
         #- 中文名,英文名,图片名,研究兴趣,共同辅导信息,group信息
         try:
-            ch_name, en_name, years, interest, co_super, group = entry.split(',')
+            zh_name, en_name, years, interest, co_super, group = entry.split(',')
         except ValueError:
             sys.stderr.write('Invalid line format {}\n'.format(entry))
             continue
@@ -128,7 +128,7 @@ if __name__ == "__main__":
                 if lang == 'en':
                     the_file.write('title: ' + supetrim(en_name) + '\n')
                 else:
-                    the_file.write('title: ' + supetrim(ch_name) + '\n')
+                    the_file.write('title: ' + supetrim(zh_name) + '\n')
                 the_file.write('user_groups: ["{}"]\n\n'.format(group))
                 the_file.write('\n\n')
                 the_file.write('organizations:\n')
