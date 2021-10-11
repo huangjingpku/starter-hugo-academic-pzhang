@@ -20,5 +20,5 @@ abstract = "Liquid crystal is a typical kind of soft matter that is intermediate
 doi = "10.1017/S09624929XXXXXX"
 math = true
 highlight = true
-featured = false
+featured = true
 +++
