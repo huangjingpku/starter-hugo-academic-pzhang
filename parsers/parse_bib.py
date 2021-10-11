@@ -223,20 +223,41 @@ def write_link(entry, the_file):
         the_file.write('url_pdf = "'+supetrim(entry['link'])+'"\n')
 
 
+def get_note_value(note_str, key):
+    vs = note_str.split(',')
+    for v in vs:
+        k, value = v.split(':')
+        if k == key:
+            return value
+    return None
+
+
 def write_selected(entry, the_file):
-    the_file.write('featured = false\n')
+    if 'note' in entry:
+        value = get_note_value(entry['note'], 'featured')
+        if value in ['true', 'false']:
+            the_file.write('featured = {}\n'.format(value))
+        else:
+            raise ValueError('Invalid feature value [{}] in [{}]'.format(value, entry['note']))
+    else:
+        the_file.write('featured = false\n')
 
 def write_config(entry, the_file):
     the_file.write('math = true\n')
     the_file.write('highlight = true\n')
 
 
-def copy_file(src_file, dst_file, tag = 'pdf'):
+def copy_file(src_file, dst_file, tag = 'PDF'):
     if os.path.exists(src_file):
         shutil.copyfile(src_file, dst_file)
         sys.stderr.write('-- Generate {} Successful: {} from {}\n'.format(tag, dst_file, src_file))
     else:
-        sys.stderr.write('-- Generate {} Failed: Can not find {}\n'.format(tag, dst_file))
+        sys.stderr.write('-- Generate {} Failed: Can not find {}\n'.format(tag, src_file))
+        # double check
+        if tag == 'PDF':
+            emp_file = src_file.replace('.pdf', '.emp')
+            if not os.path.exists(emp_file):
+                sys.stderr.write('-- Find EMP Failed: Can not find empty file {}. Please check spelling mistakes\n'.format(emp_file))
 
 
 
@@ -280,9 +301,9 @@ if __name__ == "__main__":
 
         # If the same publication exists, then skip the creation. I customize the .md files later, so I don't want them overwritten. Only new publications are created.
         if os.path.exists(filedir):
-            sys.stdout.write('Existed [{}] for [{}], Skip\n'.format(filedir, entry['title']))
+            sys.stderr.write('Existed [{}] for [{}], Skip\n'.format(filedir, entry['title']))
         else:
-            sys.stdout.write('Generate DIR [{}] for [{}]\n'.format(filedir, entry['title']))
+            sys.stderr.write('Generate DIR [{}] for [{}]\n'.format(filedir, entry['title']))
             os.makedirs(filedir)
             with open(filenm, 'w', encoding="utf8") as the_file:
                 the_file.write('+++\n')
@@ -299,7 +320,7 @@ if __name__ == "__main__":
                 # by default ,selected = false
                 write_selected(entry, the_file)
                 the_file.write('+++')
-                sys.stdout.write('-- Generate FILE [{}] Successful\n'.format(filenm))
+                sys.stderr.write('-- Generate FILE Successful: [{}] \n'.format(filenm))
                 copy_file(img_src, img_dst, 'IMG')
                 copy_file(pdf_src, pdf_dst, 'PDF')
 
