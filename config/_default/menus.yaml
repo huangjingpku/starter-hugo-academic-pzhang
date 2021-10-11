@@ -20,7 +20,7 @@ main:
     url: 'editors/'
     weight: 50
   - name: Students
-    url: '#students'
+    url: 'students/'
     weight: 60
   - name: Courses
     url: 'courses/'
@@ -28,7 +28,8 @@ main:
   - name: Contact
     url: '#contact'
     weight: 80
-
+#  - name: Test
+#    url: 'test/'
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/cv/resume.pdf` and uncomment the lines below.
 #  - name: CV
