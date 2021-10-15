@@ -10,7 +10,7 @@ content:
   user_groups:
     - Current Ph.D Students
     - Current Master Students
-    - Current Post-doc
+    - Current Post-Doc
     - Graduated Ph.D Students
     - Graduated Master Students
     - Graduated Post-Doc

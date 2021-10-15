@@ -1,7 +1,7 @@
 ---
 # Display name
 
-title: Ao-Jiang
+title: Ao Jiang
 user_groups: ["Graduated Master Students"]
 
 

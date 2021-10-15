@@ -2,12 +2,12 @@
 # Display name
 
 title: Xianzhong Ma
-user_groups: ["Current Ph.D Students"]
+user_groups: ["Graduated Ph.D Students"]
 
 
 
 organizations:
-- name: 2014- 
+- name: 2014-2019 
 
 Interests:
 - Multiscale modeling and simulation
