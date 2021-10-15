@@ -1,13 +1,13 @@
 ---
 # Display name
 
-title: 原雯
-user_groups: ["Current Master Students"]
+title: 原 雯
+user_groups: ["Graduated Master Students"]
 
 
 
 organizations:
-- name: 2018- 
+- name: 2018-2021 
 
 Interests:
 - Data Science

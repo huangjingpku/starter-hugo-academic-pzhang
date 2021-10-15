@@ -1,13 +1,13 @@
 ---
 # Display name
 
-title: 王君
-user_groups: ["Current Master Students"]
+title: 王 君
+user_groups: ["Graduated Master Students"]
 
 
 
 organizations:
-- name: 2018- 
+- name: 2018-2021 
 
 Interests:
 - Data Science

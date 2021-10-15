@@ -15,7 +15,7 @@ import datetime
 
 # 资源所在目录
 SRC_DIR='../static/people/'
-DST_DIR='../content/zh/authors/'
+DST_DIR='../content/en/authors/'
 
 def RepresentsInt(s):
     try:
