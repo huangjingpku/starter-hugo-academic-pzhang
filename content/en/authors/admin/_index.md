@@ -82,6 +82,6 @@ Pingwen Zhang is a professor of Mathematical Science at the Peking University.
 
 
 {{< icon name="download" pack="fas" >}} Download my Resume:
-- {{< staticref "cv/pzhang_cv_english_202104.pdf" "newtab" >}}English Resume{{< /staticref >}}
-- {{< staticref "cv/pzhang_brief_cv_chinese_2016.pdf" "newtab" >}}Chinese Resume(brief){{< /staticref >}}
-- {{< staticref "cv/pzhang_brief_cv_chinese_2016.pdf" "newtab" >}}Chinese Resume{{< /staticref >}}
+- {{< staticref "cv/pzhang_cv_english_202111.pdf" "newtab" >}}English Resume{{< /staticref >}}
+- {{< staticref "cv/pzhang_brief_cv_chinese_202111.pdf" "newtab" >}}Chinese Resume(brief){{< /staticref >}}
+- {{< staticref "cv/pzhang_cv_chinese_202111.pdf" "newtab" >}}Chinese Resume{{< /staticref >}}

@@ -81,7 +81,7 @@ highlight_name: false
 
 
 {{< icon name="download" pack="fas" >}} 简历下载:
-- {{< staticref "cv/pzhang_cv_english_202104.pdf" "newtab" >}}英文简历{{< /staticref >}}
-- {{< staticref "cv/pzhang_brief_cv_chinese_2016.pdf" "newtab" >}}中文简历(brief){{< /staticref >}}
-- {{< staticref "cv/pzhang_brief_cv_chinese_2016.pdf" "newtab" >}}中文简历{{< /staticref >}}
+- {{< staticref "cv/pzhang_cv_english_202111.pdf" "newtab" >}}英文简历{{< /staticref >}}
+- {{< staticref "cv/pzhang_brief_cv_chinese_202111.pdf" "newtab" >}}中文简历(brief){{< /staticref >}}
+- {{< staticref "cv/pzhang_cv_chinese_202111.pdf" "newtab" >}}中文简历{{< /staticref >}}
 

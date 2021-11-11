@@ -27,7 +27,7 @@ subtitle = ""
 - Chinese Journal of Computational Mathematics (CJCM)
     - Editorial Board, 2004 - present
 
-- CJCPChinese Journal of Computational Physics (CJCP)
+- Chinese Journal of Computational Physics (CJCP)
     - Associate Chief Editor, 2008 - present
     - Editorial Board, 2004 - 2008
 
