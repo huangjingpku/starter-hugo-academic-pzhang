@@ -76,7 +76,6 @@ Pingwen Zhang is a professor of Mathematical Science at the Peking University.
 - Fellow of The World Academy of Sciences for the advancement of science in developing countries(TWAS)
 - Vice President of Peking University
 - Director of National Engineering Laboratory for Big Data Analysis and Applications
-- Director of Center for Data Science of Peking University
 - President of Institute of Scientific and Technological Innovation, Peking University
 - President of China Society for Industry and Applied Mathematics (CSIAM)
 

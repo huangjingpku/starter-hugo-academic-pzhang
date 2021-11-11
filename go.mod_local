@@ -8,5 +8,5 @@ require (
 )
 
 
-replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 => /Users/huangjing/Documents/1.工作/9.网站维护/wowchemy-hugo-themes-5.0.0/wowchemy-cms
-replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 => /Users/huangjing/Documents/1.工作/9.网站维护/wowchemy-hugo-themes-5.0.0/wowchemy
+replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 => /Users/huangjing/Documents/1.项目/5.网站维护/wowchemy-hugo-themes-5.0.0/wowchemy-cms
+replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 => /Users/huangjing/Documents/1.项目/5.网站维护/wowchemy-hugo-themes-5.0.0/wowchemy
