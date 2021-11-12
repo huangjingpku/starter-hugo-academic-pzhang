@@ -12,11 +12,35 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  title: 张平文
+  params:
+    description: 张平文
+  menu:
+    main:
+      - name: 个人简介
+        url: '#about'
+        weight: 10
+      - name: 荣誉和奖励
+        url: '#honors'
+        weight: 20
+      - name: 数字生态指数
+        url: 'digiteco/'
+        weight: 25
+      - name: 著作
+        url: '#featured'
+        weight: 30
+      - name: 新闻
+        url: '#talks'
+        weight: 40
+      - name: 编委
+        url: 'editors/'
+        weight: 50
+      - name: 学生
+        url: 'students/'
+        weight: 60
+      - name: 课程
+        url: 'courses/'
+        weight: 70
+      - name: 联系方式
+        url: '#contact'
+        weight: 80
