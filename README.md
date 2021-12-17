@@ -8,9 +8,9 @@
 3. 修改starter-hugo-academic-pzhang/go.mod 将外部依赖修改成本地依赖（主要解决速度问题），添加replace来解决本地依赖问题
     ```go
     module github.com/wowchemy/starter-hugo-academic
-
+    
     go 1.15
-
+    
     require (
         github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210830150813-8b6612e7631c // indirect
         github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210830150813-8b6612e7631c // indirect
@@ -22,11 +22,11 @@
     修改是否成功的验证：
     - 修改前：build之前，需要downloading依赖库
     - 修改后：直接build（注：如果修改前已经build过了，需要先删缓存hugo_cache(/var/folders/0z/9ff5ml9x7dg9brhjp1qqvqgw0000gn/T/hugo_cache)）
-   
+
 # How to modify contents
 
 ## How to add a publication
-1. 修改 parsers/publication/bibtex_202104_from_cv.bib, 将新的文章的bib添加进去
+1. 修改 parsers/bibtex_202104_from_cv.bib, 将新的文章的bib添加进去
     - 如果希望文章被展现在selected_publication中，bib文件在note字段注明'featured:true''：
     ```
     @article {146,
@@ -131,7 +131,7 @@
     - {{< staticref "cv/<my-eng-cv.pdf>" "newtab" >}}English <Resume>{< /staticref >}</Resume>
     - {{< staticref "cv/<my-chi-brief-cv.pdf>" "newtab" >}}Chinese Resume(brief){{< /staticref >}}
     - {{< staticref "cv/<my-chi-cv.pdf>" "newtab" >}}Chinese Resume{{< /staticref >}}
-    ```
+   ```
 
 ## How to moidfy photo of pzhang
 ```bash
@@ -207,7 +207,7 @@ hugo server
 ├── theme.toml
 ├── update_wowchemy.sh
 └── view.sh 
-```  
+```
 ## config
 config用于保存配置文件
 - _default/config.yaml:基本配置
@@ -245,7 +245,7 @@ parse用于存储处理脚本，包括将文献/group信息自动转成academic�
   - 研究方向
   - 合带信息，如果没有，填空（co supervised by Prof Weinan E）
   - 分组信息，只能选这几个（Current/Graduated Ph.D Students，Current/Graduated Master Students，Current/Graduated Post doc）
-脚本：
+  脚本：
 - parse_bib.py：bib信息转成academic需要的目录和文件
 - parse_group.py：csv信息转成academic需要的目录和文件
 
@@ -307,4 +307,3 @@ parse用于存储处理脚本，包括将文献/group信息自动转成academic�
 - 20211011： 1.0.1
     - 增加 CSIAM Transactions on Applied Mathematics的编委
     - 根据李英老师提供的学生信息更新学生状态
-    
