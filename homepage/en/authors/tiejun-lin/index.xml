@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiejun Lin | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/tiejun-lin/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/tiejun-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiejun Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tiejun Lin</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/tiejun-lin/</link>
+    </image>
+    
+    <item>
+      <title>Convergence analysis of BCF method for Hookean dumb-bell model with finite difference scheme</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_cabmhdmfds/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_cabmhdmfds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

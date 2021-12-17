@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>罗 冲 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/chong-luo/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/chong-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>罗 冲</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/chong-luo/avatar_hu637fe1c19bee369687afeebc56762e40_23803_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>罗 冲</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/chong-luo/</link>
+    </image>
+    
+    <item>
+      <title>The structure of equilibrium solutions of one-dimensional Doi equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_sesode/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_sesode/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

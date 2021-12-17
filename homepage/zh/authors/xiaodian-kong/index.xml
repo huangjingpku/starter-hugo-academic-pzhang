@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>孔小点 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/xiaodian-kong/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/xiaodian-kong/index.xml" rel="self" type="application/rss+xml" />
+    <description>孔小点</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/xiaodian-kong/avatar_hu553935caa08f4bbe34260a47b0b22277_28564_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>孔小点</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/xiaodian-kong/</link>
+    </image>
+    
+  </channel>
+</rss>

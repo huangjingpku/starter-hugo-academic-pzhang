@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Tang | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/tao-tang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/tao-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Tang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tao Tang</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/tao-tang/</link>
+    </image>
+    
+    <item>
+      <title>Level set calculations for incompressible two-phase flows on a dynamically adaptive grid</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_lscitfdag/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_lscitfdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving mesh methods for singular problems on a sphere using perturbed harmonic mappings</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_mmmspsuphm/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_mmmspsuphm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving mesh finite element methods for the incompressible Navier-Stokes equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_mmfemine/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_mmfemine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive mesh redistribution method for nonlinear hamiltonian-jacobi equations in two- and three dimensions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2003_amrmnhettd/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2003_amrmnhettd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Moving Mesh Finite Element Algorithm for Sin-gular Problems for Two and Three Space Dimensions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2002_mmfeaspttsd/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2002_mmfeaspttsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Moving Mesh Methods Based on Geometrical Variables</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2001_ammmbgv/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2001_ammmbgv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Mesh Methods in Multiple Dimensions Based on Harmonic Maps</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2001_mmmmdbhm/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2001_mmmmdbhm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>原 雯 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wen-yuan/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/wen-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>原 雯</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/wen-yuan/avatar_hufd29ee1370c6406940e0d9b7caddb6bb_98725_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>原 雯</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wen-yuan/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Suspected Epidemic Cases Using Trajectory Big Data</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_dsecutbd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_dsecutbd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

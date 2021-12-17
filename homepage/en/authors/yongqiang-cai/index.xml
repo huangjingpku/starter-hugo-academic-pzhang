@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongqiang Cai | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/yongqiang-cai/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/yongqiang-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongqiang Cai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/yongqiang-cai/avatar_hu33d8f2710ea4928d295bd08cdc05f6eb_27913_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yongqiang Cai</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/yongqiang-cai/</link>
+    </image>
+    
+    <item>
+      <title>Elastic properties of liquid-crystalline bilayers self-assembled from semiflexible-flexible deblock copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2019_eplbssdc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2019_eplbssdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid Crystalline Bilayers Self-Assembled from Rod-Coil Diblock Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_lcbsrdc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_lcbsrdc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

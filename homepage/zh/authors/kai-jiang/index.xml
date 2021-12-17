@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>蒋 凯 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/kai-jiang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/kai-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>蒋 凯</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/kai-jiang/avatar_hu0cac7eb5189ce28053c9e204c8251ab9_17226_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>蒋 凯</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/kai-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Stability of Icosahedral Quasicrystals in a Simple Model with Two-Length Scales</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_siqsmts/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_siqsmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Soft Quasicrystals in a Coupled-Mode Swift-Hohenberg Model for Three-Component Systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2016_ssqcsmts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2016_ssqcsmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic Structure of the SCFT Energy Functional of Multicomponent Block Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_assefmbc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_assefmbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E cient Numerical Schemes for Solving the Self-Consistent Field Equations of Flexible-Semi flexible Diblock Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_ecnsssfeffdc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_ecnsssfeffdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient numerical schemes for solving the self-consistent field equations of flexible–semiflexible diblock copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_ensssfefdc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_ensssfefdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Two-Dimensional Soft Quasicrystals in Systems with Two Length Scales</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_stsqstls/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_stsqstls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Transition for Landau-Brazovskii Model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_dtlm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_dtlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods for Quasicrystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_nmq/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_nmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Strategy to Explore Stable and Metastable Ordered Phases of Block Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_sesmopbc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_sesmopbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of New Metastable Patterns in Diblock Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_dnmpdc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_dnmpdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of epitaxies between ordered phases of block copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2011_oebopbc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2011_oebopbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral method for exploring patterns of diblock copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_smepdc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_smepdc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

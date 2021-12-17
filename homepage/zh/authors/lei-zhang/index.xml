@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张 磊 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/lei-zhang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/lei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>张 磊</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/lei-zhang/avatar_hu3c0921ddd27bd531cd738a54b57f327f_15438_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>张 磊</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/lei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and Computation of Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2021_mclc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2021_mclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution landscape of a reduced Landau–de Gennes model on a hexagon</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2021_slrlgmh/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2021_slrlgmh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of a Pathway Map on a Complicated Energy Landscape</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_cpmcel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_cpmcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution landscapes of nematic liquid crystals confined on a hexagon</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_slnlcch/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_slnlcch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-index Optimization-based Shrinking Dimer Method for Finding High-Index Saddle Points</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2019_hosdmfhsp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2019_hosdmfhsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition pathways between defect patterns in confined nematic liquid crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2019_tpbdpcnlc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2019_tpbdpcnlc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

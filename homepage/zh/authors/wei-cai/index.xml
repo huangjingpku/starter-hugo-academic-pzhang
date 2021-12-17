@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Cai | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wei-cai/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/wei-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Cai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Wei Cai</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wei-cai/</link>
+    </image>
+    
+    <item>
+      <title>Boundary treatments in non-equilibrium Green&#39;s function(NEGF) methods for quantum transport in nano-MOSFETs</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_btngfmqtn/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_btngfmqtn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection/transmission characteristics of a dis-continuous Galerkin method for Maxwell&#39;s equations in dispersive inhomogeneous media</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_rcdgmmedim/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_rcdgmmedim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-order DGTD methods for dispersive Maxwell&#39;s equations and modeling of silver nanowire Coupling</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_hdmdmemsnc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_hdmdmemsnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservative local discontinuous Galerkin methods for time dependent Schrodinger equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_cldgmtdse/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_cldgmtdse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin time domain(DGTD) methods for the study of 2-D waveguide-coupled microring resonators</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_dgtdms2wmr/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_dgtdms2wmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin time-domain method for GPR simulation in dispersive media</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_dgtmgsdm/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_dgtmgsdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin methods for dispersive and lossy Maxwell&#39;s equations and PML boundary conditions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_dgmdlmepbc/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_dgmdlmepbc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

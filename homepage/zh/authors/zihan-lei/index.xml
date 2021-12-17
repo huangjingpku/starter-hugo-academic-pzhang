@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雷子涵 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zihan-lei/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/zihan-lei/index.xml" rel="self" type="application/rss+xml" />
+    <description>雷子涵</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/zihan-lei/avatar_hudef5e74593be4e5e478d9075dbb96ca7_3869_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>雷子涵</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zihan-lei/</link>
+    </image>
+    
+  </channel>
+</rss>

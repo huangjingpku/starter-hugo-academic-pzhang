@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>龙子超 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zichao-long/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/zichao-long/index.xml" rel="self" type="application/rss+xml" />
+    <description>龙子超</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/zichao-long/avatar_hufeeefd06cf67b4b0af86b2ec201c2733_8246_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>龙子超</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zichao-long/</link>
+    </image>
+    
+  </channel>
+</rss>

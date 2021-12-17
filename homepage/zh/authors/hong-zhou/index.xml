@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Zhou | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/hong-zhou/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/hong-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hong Zhou</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/hong-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Steady states and their stability of homogeneous rigid extended nematic polymers under imposed magnetic fields</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_sstshrenpuimf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_sstshrenpuimf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of phase transition in homogeneous rigid extended nematics and magnetic suspensions using an order-reduction method</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_spthrenmsuom/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_spthrenmsuom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

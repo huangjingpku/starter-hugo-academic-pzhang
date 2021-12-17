@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>纪光华 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/guanghua-ji/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/guanghua-ji/index.xml" rel="self" type="application/rss+xml" />
+    <description>纪光华</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/guanghua-ji/avatar_hu8d05843ff72c71b46897c43b5fbd66a6_18105_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>纪光华</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/guanghua-ji/</link>
+    </image>
+    
+    <item>
+      <title>A Nonhomogeneous Kinetic Model of Liquid Crystal Polymers and Its Thermodynamic Closure Approximation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nkmlcpitca/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nkmlcpitca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kinetic-Hydrodynamic Simulation of Liquid Crystalline Polymers Under Plane Shear Flow: 1&#43;2 Dimensional Case</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_kslcpupsf1dc/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_kslcpupsf1dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steady states and their stability of homogeneous rigid extended nematic polymers under imposed magnetic fields</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_sstshrenpuimf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_sstshrenpuimf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of phase transition in homogeneous rigid extended nematics and magnetic suspensions using an order-reduction method</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_spthrenmsuom/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_spthrenmsuom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

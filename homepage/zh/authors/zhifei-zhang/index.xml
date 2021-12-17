@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhifei Zhang | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zhifei-zhang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/zhifei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhifei Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhifei Zhang</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zhifei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Local minimizer and De Giorgi’s type conjecture for the isotropic–nematic interface problem</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_lmdgtciip/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_lmdgtciip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Minimizers for the Isotropic-Nematic Interface Problem</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_miip/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_miip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Half-Degree Point Defect Pro les for 2D Nematic Liquid-Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_shpdpl2nl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_shpdpl2nl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STABILITY OF HALF-DEGREE POINT DEFECT PROFILES FOR 2-D NEMATIC LIQUID CRYSTAL</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_shpdp2nlc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_shpdp2nlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Microscopic Theory to Macroscopic Theory: a Systematic Study on Modeling for Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_mtmtssmlc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_mtmtssmlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rigorous Derivation from Landau-De Gennes Theory to Ericksen-Leslie Theory</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_rdlgtet/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_rdlgtet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Small Deborah Number Limit of the Doi-Onsager Equation to the Ericksen-Leslie Equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_sdnldeee/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2015_sdnldeee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-Posedness of the Ericksen-Leslie System</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_wes/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_wes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-Posedness of Hydrodynamics on the Moving Elastic Surface</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_whmes/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_whmes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阮志凌 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zhiling-ruan/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/zhiling-ruan/index.xml" rel="self" type="application/rss+xml" />
+    <description>阮志凌</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/zhiling-ruan/avatar_hu637fe1c19bee369687afeebc56762e40_23803_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>阮志凌</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zhiling-ruan/</link>
+    </image>
+    
+  </channel>
+</rss>

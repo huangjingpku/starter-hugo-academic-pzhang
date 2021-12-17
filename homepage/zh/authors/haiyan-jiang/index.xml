@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>姜海燕 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/haiyan-jiang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/haiyan-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>姜海燕</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/haiyan-jiang/avatar_hu637fe1c19bee369687afeebc56762e40_23803_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>姜海燕</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/haiyan-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Boundary treatments in non-equilibrium Green&#39;s function(NEGF) methods for quantum transport in nano-MOSFETs</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_btngfmqtn/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_btngfmqtn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale Methods for Inverse Modeling in 1-D Mos Capacitor</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2003_mmim1mc/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2003_mmim1mc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

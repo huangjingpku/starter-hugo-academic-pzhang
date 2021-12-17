@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李 若 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/ruo-li/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/ruo-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>李 若</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/ruo-li/avatar_huaa60a52f738bd641119c52ba2006a0b5_1939_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>李 若</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/ruo-li/</link>
+    </image>
+    
+    <item>
+      <title>A cellular automaton technique for modelling of a binary dendritic growth with convection</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_catmbdgc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_catmbdgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Level set calculations for incompressible two-phase flows on a dynamically adaptive grid</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_lscitfdag/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_lscitfdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving mesh methods for singular problems on a sphere using perturbed harmonic mappings</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_mmmspsuphm/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_mmmspsuphm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving mesh finite element methods for the incompressible Navier-Stokes equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_mmfemine/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_mmfemine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new coupled model for alloy solidi cation Science in China series A-Mathematics</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_ncmascscsa/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_ncmascscsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

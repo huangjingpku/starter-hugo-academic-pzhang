@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张 辉 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/hui-zhang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/hui-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>张 辉</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/hui-zhang/avatar_huebbda40c85cc11c1c2795c61cdc1cf4d_14692_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>张 辉</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/hui-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Global existence of weak solutions to the regularized Hookean dumbbell model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_gewsrhdm/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_gewsrhdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the New Multiscale Rodlike Model of Polymeric Fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_nmrmpf/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_nmrmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable dynamic states at the nematic liquid crystals in weak shear flow</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_sdsnlcwsf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_sdsnlcwsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local existence for the FENE-dumbbell model of polymeric fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_lefmpf/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2006_lefmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axial symmetry and classification of stationary solutions of Doi-Onsager equation on the sphere with Maier-Saupe potential</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_ascssdesmp/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_ascssdesmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of equilibrium solutions of one-dimensional Doi equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_sesode/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_sesode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theoretical and numerical study for the rod-like model of a polymeric fluid</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_tnsrmpf/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_tnsrmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local existence for the dumbbell model of polymeric fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_ledmpf/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_ledmpf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

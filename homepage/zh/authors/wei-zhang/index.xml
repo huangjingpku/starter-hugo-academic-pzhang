@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张 伟 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wei-zhang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>张 伟</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/wei-zhang/avatar_hu8864f38d773e4625cb38bb314d293462_4684_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>张 伟</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Nucleation Rate Calculation for the Phase Transition of Diblock Copolymers under Stochastic Cahn-Hilliard Dynamics</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_nrcptdcuscd/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_nrcptdcuscd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Study for the Nucleation of One-Dimensional Stochastic Cahn-Hilliard Dynamics</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_nsnoscd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_nsnoscd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

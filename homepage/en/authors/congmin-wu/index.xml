@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congmin Wu | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/congmin-wu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/congmin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Congmin Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/congmin-wu/avatar_hu49239fa926157471f2868d9a9c4ce0d6_14427_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Congmin Wu</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/congmin-wu/</link>
+    </image>
+    
+    <item>
+      <title>Non-equilibrium molecular-dynamics measurement of the Leslie coefficients of a Gay-Berne nematic liquid crystal</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_nmmlcgnlc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_nmmlcgnlc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

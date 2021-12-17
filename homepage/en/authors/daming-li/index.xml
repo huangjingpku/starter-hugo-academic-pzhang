@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daming Li | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/daming-li/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/daming-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daming Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/daming-li/avatar_hu637fe1c19bee369687afeebc56762e40_23803_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Daming Li</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/daming-li/</link>
+    </image>
+    
+    <item>
+      <title>A cellular automaton technique for modelling of a binary dendritic growth with convection</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_catmbdgc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_catmbdgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new coupled model for alloy solidi cation Science in China series A-Mathematics</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_ncmascscsa/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_ncmascscsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

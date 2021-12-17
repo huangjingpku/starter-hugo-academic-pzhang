@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王 涵 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/han-wang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/han-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>王 涵</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/han-wang/avatar_hu4634db341633bdf26195b981c9fcdf73_18876_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>王 涵</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/han-wang/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Particle Clusters in Particle-Fluid Systems by a Density Based Method</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2019_dpcpsdbm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2019_dpcpsdbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is There a Third Order Phase Transition for Supercritical Fluids?</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_ittoptsf/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_ittoptsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error estimate of short-range force calculation in inhomogeneous molecular systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_eesfcims/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_eesfcims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Numerical Accuracy of Ewald Smooth Particle Mesh Ewald and Staggered Mesh Ewald Methods for Correlated Molecular Systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_naespmesmemcms/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_naespmesmemcms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the existence of a third-order phase transition beyond the Andrews critical point: A molecular dynamics study</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2011_etptbacpmds/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2011_etptbacpmds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crucial properties of the moment closure model FENE-QE</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_cpmcmf/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_cpmcmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

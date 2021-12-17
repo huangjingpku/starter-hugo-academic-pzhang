@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>徐 劼 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/jie-xu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/jie-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>徐 劼</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/jie-xu/avatar_hu637fe1c19bee369687afeebc56762e40_23803_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>徐 劼</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/jie-xu/</link>
+    </image>
+    
+    <item>
+      <title>A Fast Algorithm for the Moments of Bingham Distribution</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_fambd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_fambd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A TENSOR MODEL FOR NEMATIC PHASES OF BENT-CORE MOLECULES BASED ON MOLECULAR THEORY</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_tmnpbmbmt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_tmnpbmbmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations on SO(3) by Wigner D-matrix and Applications</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_aswda/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_aswda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Elastic Constants of Bent-Core Molecules from Onsager-Theory-Based Tensor Model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_cecbmotm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_cecbmotm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onsager-theory-based dynamic model for nematic phases of bent-core molecules and star molecules</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_odmnpbmsm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_odmnpbmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Optimal Interfacial Structure of Modulated Phases</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_coismp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_coismp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Transmission of Symmetry of Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_tslc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_tslc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Microscopic Theory to Macroscopic Theory - Symmetries and Order Parameters of Rigid Molecules</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_mtmt-soprm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2014_mtmt-soprm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

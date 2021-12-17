@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王 君 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/jun-wang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/jun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>王 君</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/jun-wang/avatar_hudf0d753ad9aa10c2f1c5cb23160b46ce_172949_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>王 君</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/jun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Suspected Epidemic Cases Using Trajectory Big Data</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_dsecutbd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_dsecutbd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

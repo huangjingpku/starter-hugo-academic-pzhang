@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王祎炜 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/yiwei-wang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/yiwei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>王祎炜</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/yiwei-wang/avatar_huea2028bafb52268ce67d0657f01e904c_74664_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>王祎炜</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/yiwei-wang/</link>
+    </image>
+    
+    <item>
+      <title>Construction of a Pathway Map on a Complicated Energy Landscape</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_cpmcel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2020_cpmcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of three-dimensional colloidal crystals in a nematic liquid crystal</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_ftccnlc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2018_ftccnlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defects Around a Spherical Particle in Cholesteric Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_daspclc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_daspclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Defects in an Unconfined Nematic Fluid Induced by Single and Double Spherical Colloidal Particles</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_tdunfisdscp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2017_tdunfisdscp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

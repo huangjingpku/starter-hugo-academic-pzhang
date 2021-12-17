@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haoyang Liu | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/haoyang-liu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/haoyang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haoyang Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/haoyang-liu/avatar_hua592105922fd929da67c8874f5dbb54b_352768_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Haoyang Liu</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/haoyang-liu/</link>
+    </image>
+    
+  </channel>
+</rss>

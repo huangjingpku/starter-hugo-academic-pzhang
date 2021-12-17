@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Y. Hou | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/thomas-y.-hou/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/thomas-y.-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Y. Hou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Thomas Y. Hou</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/thomas-y.-hou/</link>
+    </image>
+    
+    <item>
+      <title>Convergence of a Boundary Integral Method for 3-D Water Waves</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_cbim3ww/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_cbim3ww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singularity Formulation in Three-dimensional Vortex Sheets</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_sftvs/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_sftvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Stability Technique for Boundary Integral Methods of Water Waves</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2001_nstbimww/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2001_nstbimww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth Rates for the Linearized Motion of 3-D Fluid Interfaces with Surface Tension Far from Equilibrium</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1998_grlm3fistfe/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1998_grlm3fistfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-posedness for linearizied motion of 3-D water waves far from equilibrium</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1996_wlm3wwfe/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1996_wlm3wwfe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

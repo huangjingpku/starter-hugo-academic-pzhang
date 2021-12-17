@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>于海军 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/haijun-yu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/haijun-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>于海军</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/haijun-yu/avatar_hu488e819366a63324910c62b22dbc5ba8_17783_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>于海军</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/haijun-yu/</link>
+    </image>
+    
+    <item>
+      <title>A Nonhomogeneous Kinetic Model of Liquid Crystal Polymers and Its Thermodynamic Closure Approximation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nkmlcpitca/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nkmlcpitca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kinetic-Hydrodynamic Simulation of Liquid Crystalline Polymers Under Plane Shear Flow: 1&#43;2 Dimensional Case</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_kslcpupsf1dc/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_kslcpupsf1dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A kinetic-hydrodynamic simulation of microstructure of liquid crystal polymers in plane shear flow</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_ksmlcppsf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2007_ksmlcppsf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

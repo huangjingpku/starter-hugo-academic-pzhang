@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong Xu | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/dong-xu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/dong-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dong Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/dong-xu/avatar_hu738ee2afbf78d1cd64d58d2126e744f4_195875_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dong Xu</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/dong-xu/</link>
+    </image>
+    
+  </channel>
+</rss>

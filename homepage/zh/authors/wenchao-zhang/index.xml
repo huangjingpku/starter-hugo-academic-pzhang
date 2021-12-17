@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张文超 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wenchao-zhang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/wenchao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>张文超</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/wenchao-zhang/avatar_hu29f67430b68ba8f4432033fdb57fc340_15991_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>张文超</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/wenchao-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

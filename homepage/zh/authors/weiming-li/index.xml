@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李蔚明 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/weiming-li/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/weiming-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>李蔚明</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/weiming-li/avatar_hu4528ff68b9aeb3e81ccdc4c683dc8f69_20702_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>李蔚明</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/weiming-li/</link>
+    </image>
+    
+  </channel>
+</rss>

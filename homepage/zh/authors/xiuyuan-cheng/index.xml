@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiuyuan Cheng | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/xiuyuan-cheng/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/xiuyuan-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiuyuan Cheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiuyuan Cheng</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/xiuyuan-cheng/</link>
+    </image>
+    
+    <item>
+      <title>A numerical method for the study of nucleation of ordered phases</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nmsnop/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nmsnop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nucleation of Ordered Phases in Block Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nopbc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_nopbc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

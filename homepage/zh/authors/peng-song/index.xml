@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宋 鹏 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/peng-song/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/peng-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>宋 鹏</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/peng-song/avatar_hubdcd89c670f7c05d1a2df9538c537f58_20598_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>宋 鹏</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/peng-song/</link>
+    </image>
+    
+    <item>
+      <title>Local Existence and Uniqueness of the Dynamical Equations of an Incompressible Membrane in Two-Dimensional Space</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_leudeimts/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2010_leudeimts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of fluid membranes in two-dimensional space</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_nsfmts/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_nsfmts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

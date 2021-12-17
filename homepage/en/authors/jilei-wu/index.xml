@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jilei Wu | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/jilei-wu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/jilei-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jilei Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jilei Wu</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/jilei-wu/</link>
+    </image>
+    
+    <item>
+      <title>Effect of exposure to trace elements in the soil on the prevalence of neural tube defects in a high-risk area of China</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2011_eetespntdhac/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2011_eetespntdhac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

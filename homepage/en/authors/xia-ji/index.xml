@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xia Ji | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/xia-ji/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/xia-ji/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xia Ji</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/xia-ji/avatar_hu4f58385100f15b73ef011d7fdd45dcc8_24520_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xia Ji</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/xia-ji/</link>
+    </image>
+    
+    <item>
+      <title>Reflection/transmission characteristics of a dis-continuous Galerkin method for Maxwell&#39;s equations in dispersive inhomogeneous media</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_rcdgmmedim/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_rcdgmmedim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-order DGTD methods for dispersive Maxwell&#39;s equations and modeling of silver nanowire Coupling</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_hdmdmemsnc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_hdmdmemsnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin time domain(DGTD) methods for the study of 2-D waveguide-coupled microring resonators</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_dgtdms2wmr/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_dgtdms2wmr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

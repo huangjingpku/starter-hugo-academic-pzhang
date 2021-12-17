@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张之奕 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zhiyi-zhang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/zhiyi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>张之奕</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/zhiyi-zhang/avatar_hub730be775f4dfa458ec9d1ce5c0b4071_54409_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>张之奕</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/zhiyi-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

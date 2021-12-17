@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Wang | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/wei-wang/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/wei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/wei-wang/avatar_hu9b989f63e353f658d66e46fb5c9d0cf6_16227_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wei Wang</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/wei-wang/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and Computation of Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2021_mclc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2021_mclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On equilibrium configurations of nematic liquid crystals droplet with anisotropic elastic energy</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_ecnlcdaee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_ecnlcdaee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Minimizers for the Isotropic-Nematic Interface Problem</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_miip/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_miip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Half-Degree Point Defect Pro les for 2D Nematic Liquid-Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdpl2nl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdpl2nl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STABILITY OF HALF-DEGREE POINT DEFECT PROFILES FOR 2-D NEMATIC LIQUID CRYSTAL</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdp2nlc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdp2nlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Microscopic Theory to Macroscopic Theory: a Systematic Study on Modeling for Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_mtmtssmlc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_mtmtssmlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Well-posedness and Small Deborah Limit of A Molecular-Based Q-Tensor System</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_lwsdlmqs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_lwsdlmqs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rigorous Derivation from Landau-De Gennes Theory to Ericksen-Leslie Theory</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_rdlgtet/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_rdlgtet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Small Deborah Number Limit of the Doi-Onsager Equation to the Ericksen-Leslie Equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_sdnldeee/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_sdnldeee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-Posedness of the Ericksen-Leslie System</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_wes/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_wes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-Posedness of Hydrodynamics on the Moving Elastic Surface</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2012_whmes/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2012_whmes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

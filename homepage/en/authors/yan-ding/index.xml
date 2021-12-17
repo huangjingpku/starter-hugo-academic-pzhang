@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Ding | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/yan-ding/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/yan-ding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan Ding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/yan-ding/avatar_hu841bf951dcae960c4a014161cfbba913_18865_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yan Ding</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/yan-ding/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Stroud stochastic collocation method for flow in random porous media via Karhunen-Loeve expansion</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_asscmfrpmke/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_asscmfrpmke/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

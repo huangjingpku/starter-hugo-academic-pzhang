@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>卢 脁 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/tiao-lu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/tiao-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>卢 脁</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/tiao-lu/avatar_huea70e9d81feba191b70d57e54d635bf4_23938_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>卢 脁</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/tiao-lu/</link>
+    </image>
+    
+    <item>
+      <title>Simulation Study of Quasi-Ballistic Transport in Asymmetric DG-MOSFET by Directly Solving Boltzmann Transport Equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_ssqtaddsbte/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2013_ssqtaddsbte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Finite Volume Method for the Multi Subband Boltzmann Equation with Realistic 2D Scattering in Double Gate MOSFETs</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2011_fvmmsber2sdgm/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2011_fvmmsber2sdgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservative local discontinuous Galerkin methods for time dependent Schrodinger equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_cldgmtdse/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_cldgmtdse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin time-domain method for GPR simulation in dispersive media</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_dgtmgsdm/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2005_dgtmgsdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin methods for dispersive and lossy Maxwell&#39;s equations and PML boundary conditions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_dgmdlmepbc/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2004_dgmdlmepbc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

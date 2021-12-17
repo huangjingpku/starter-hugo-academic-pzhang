@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈国贤 | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/guoxian-chen/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/guoxian-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>陈国贤</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/zh/authors/guoxian-chen/avatar_hu44ca36db3f7192ff35ab045c7e4c2b53_17246_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>陈国贤</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/guoxian-chen/</link>
+    </image>
+    
+    <item>
+      <title>Second-order accurate Godunov scheme for multicomponent flows on moving triangular meshes</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_sagsmfmtm/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2008_sagsmfmtm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christof Schuette | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/zh/authors/christof-schuette/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/zh/authors/christof-schuette/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christof Schuette</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Christof Schuette</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/authors/christof-schuette/</link>
+    </image>
+    
+    <item>
+      <title>Error estimate of short-range force calculation in inhomogeneous molecular systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_eesfcims/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_eesfcims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Numerical Accuracy of Ewald Smooth Particle Mesh Ewald and Staggered Mesh Ewald Methods for Correlated Molecular Systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_naespmesmemcms/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/zh/publication/2012_naespmesmemcms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

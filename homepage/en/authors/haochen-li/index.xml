@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haochen Li | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/haochen-li/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/haochen-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haochen Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/haochen-li/avatar_hu46b1d3d5f8b451094d7799111ad0684d_7207232_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Haochen Li</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/haochen-li/</link>
+    </image>
+    
+    <item>
+      <title>A Model Output Machine Learning Method for Grid Temperature Forecasts in the Beijing Area</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2019_momlmgtfba/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2019_momlmgtfba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

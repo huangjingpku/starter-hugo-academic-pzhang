@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengbo Xu | PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/authors/pengbo-xu/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/authors/pengbo-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengbo Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/en/authors/pengbo-xu/avatar_huf2154bfd77d0064f4d712f034fee398e_156083_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pengbo Xu</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/authors/pengbo-xu/</link>
+    </image>
+    
+  </channel>
+</rss>

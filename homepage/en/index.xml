@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PingwenZhang</title>
+    <link>https://www.math.pku.edu.cn/pzhang/en/</link>
+      <atom:link href="https://www.math.pku.edu.cn/pzhang/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>PingwenZhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Oct 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.math.pku.edu.cn/pzhang/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>PingwenZhang</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/</link>
+    </image>
+    
+    <item>
+      <title>张平文理事长在学会第十九届年会开幕式上的讲话：抓住新机遇，迈向新征程</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/talk/%E5%BC%A0%E5%B9%B3%E6%96%87%E7%90%86%E4%BA%8B%E9%95%BF%E5%9C%A8%E5%AD%A6%E4%BC%9A%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%B9%B4%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%E6%8A%93%E4%BD%8F%E6%96%B0%E6%9C%BA%E9%81%87%E8%BF%88%E5%90%91%E6%96%B0%E5%BE%81%E7%A8%8B/</link>
+      <pubDate>Fri, 08 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/talk/%E5%BC%A0%E5%B9%B3%E6%96%87%E7%90%86%E4%BA%8B%E9%95%BF%E5%9C%A8%E5%AD%A6%E4%BC%9A%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%B9%B4%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D%E6%8A%93%E4%BD%8F%E6%96%B0%E6%9C%BA%E9%81%87%E8%BF%88%E5%90%91%E6%96%B0%E5%BE%81%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Computation of Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2021_mclc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2021_mclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution landscape of a reduced Landau–de Gennes model on a hexagon</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2021_slrlgmh/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2021_slrlgmh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; data-caption=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Construction of a Pathway Map on a Complicated Energy Landscape</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2020_cpmcel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2020_cpmcel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Suspected Epidemic Cases Using Trajectory Big Data</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2020_dsecutbd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2020_dsecutbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution landscapes of nematic liquid crystals confined on a hexagon</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2020_slnlcch/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2020_slnlcch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd
+data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;read_csv(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;)
+data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
+&lt;p&gt;Academic supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; chart format.&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+&lt;div id=&#34;chart-689427531&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        return;
+      }
+      clearInterval( a );
+
+      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+        Plotly.plot(&#39;chart-689427531&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;\gamma_{n} &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \frac{ 
+\left | \left &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf x_{n} &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; \mathbf x_{n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;} \right &lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;^T 
+\left &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;\nabla F &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf x_{n}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; \nabla F &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf x_{n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; \right &lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; \right |}
+{\left \|\nabla F&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf{x}_{n}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; \nabla F&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf{x}_{n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; \right \|^&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;}&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;f&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;k;p_{&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;}^{&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \begin{cases}p_{&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;}^{&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;} &amp;amp; \text{if }k&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, \\\\
+&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;p_{&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;}^{&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;} &amp;amp; \text{if }k&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;.\end{cases}&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$&lt;/p&gt;
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;- [x]&lt;/span&gt; Write math example
+&lt;span style=&#34;color:#66d9ef&#34;&gt;- [x]&lt;/span&gt; Write diagram example
+&lt;span style=&#34;color:#66d9ef&#34;&gt;- [ ]&lt;/span&gt; Do something else
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{% callout note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;spoiler&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &amp;gt;}}
+You found me!
+{{&amp;lt; /&lt;span style=&#34;color:#f92672&#34;&gt;spoiler&lt;/span&gt; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
+  &lt;p&gt;You found me!&lt;/p&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;icon&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;pack&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &amp;gt;}} Terminal  
+{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;icon&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;pack&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &amp;gt;}} Python  
+{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;icon&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;pack&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &amp;gt;}} R
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/post/jupyter/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
+Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Model Output Machine Learning Method for Grid Temperature Forecasts in the Beijing Area</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2019_momlmgtfba/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2019_momlmgtfba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Particle Clusters in Particle-Fluid Systems by a Density Based Method</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2019_dpcpsdbm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2019_dpcpsdbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic properties of liquid-crystalline bilayers self-assembled from semiflexible-flexible deblock copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2019_eplbssdc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2019_eplbssdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-index Optimization-based Shrinking Dimer Method for Finding High-Index Saddle Points</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2019_hosdmfhsp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2019_hosdmfhsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/students/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/test/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition pathways between defect patterns in confined nematic liquid crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2019_tpbdpcnlc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2019_tpbdpcnlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast Algorithm for the Moments of Bingham Distribution</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_fambd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_fambd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A TENSOR MODEL FOR NEMATIC PHASES OF BENT-CORE MOLECULES BASED ON MOLECULAR THEORY</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_tmnpbmbmt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_tmnpbmbmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations on SO(3) by Wigner D-matrix and Applications</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_aswda/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_aswda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary Problems for the Fractional and Tempered Fractional Operators</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_bpftfo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_bpftfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Elastic Constants of Bent-Core Molecules from Onsager-Theory-Based Tensor Model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_cecbmotm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_cecbmotm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation of three-dimensional colloidal crystals in a nematic liquid crystal</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_ftccnlc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_ftccnlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local minimizer and De Giorgi’s type conjecture for the isotropic–nematic interface problem</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_lmdgtciip/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_lmdgtciip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onsager-theory-based dynamic model for nematic phases of bent-core molecules and star molecules</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2018_odmnpbmsm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2018_odmnpbmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Optimal Interfacial Structure of Modulated Phases</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_coismp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_coismp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defects Around a Spherical Particle in Cholesteric Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_daspclc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_daspclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid Crystalline Bilayers Self-Assembled from Rod-Coil Diblock Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_lcbsrdc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_lcbsrdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On equilibrium configurations of nematic liquid crystals droplet with anisotropic elastic energy</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_ecnlcdaee/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_ecnlcdaee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Minimizers for the Isotropic-Nematic Interface Problem</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_miip/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_miip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Half-Degree Point Defect Pro les for 2D Nematic Liquid-Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdpl2nl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdpl2nl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STABILITY OF HALF-DEGREE POINT DEFECT PROFILES FOR 2-D NEMATIC LIQUID CRYSTAL</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdp2nlc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_shpdp2nlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Icosahedral Quasicrystals in a Simple Model with Two-Length Scales</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_siqsmts/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_siqsmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Transmission of Symmetry of Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_tslc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_tslc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Defects in an Unconfined Nematic Fluid Induced by Single and Double Spherical Colloidal Particles</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_tdunfisdscp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_tdunfisdscp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition of Defect Patterns from 2D to 3D in Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2017_tdp23lc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2017_tdp23lc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nematic ordering of semi flexible polymers confined on a toroidal surface</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2016_nosfpcts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2016_nosfpcts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nematic ordering of semi-flexible polymers confined on a toroidal surface</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2016_nospcts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2016_nospcts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Disclination Lines of Nematic Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2016_dlnlc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2016_dlnlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Soft Quasicrystals in a Coupled-Mode Swift-Hohenberg Model for Three-Component Systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2016_ssqcsmts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2016_ssqcsmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface-induced phase transitions of worm-like chains in slit con nement</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2016_sptwcscn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2016_sptwcscn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic Structure of the SCFT Energy Functional of Multicomponent Block Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_assefmbc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_assefmbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Self-consistent Field Theory to Self-Assembled Bilayer Membrane</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_asftsbm/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_asftsbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Transitions and Pattern Formations for a Cahn-Hilliard Model with Long-Range Repulsive Interactions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_dtpfcmlri/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_dtpfcmlri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E cient Numerical Schemes for Solving the Self-Consistent Field Equations of Flexible-Semi flexible Diblock Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_ecnsssfeffdc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_ecnsssfeffdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient numerical schemes for solving the self-consistent field equations of flexible–semiflexible diblock copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_ensssfefdc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_ensssfefdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Microscopic Theory to Macroscopic Theory: a Systematic Study on Modeling for Liquid Crystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_mtmtssmlc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_mtmtssmlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Well-posedness and Small Deborah Limit of A Molecular-Based Q-Tensor System</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_lwsdlmqs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_lwsdlmqs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rigorous Derivation from Landau-De Gennes Theory to Ericksen-Leslie Theory</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_rdlgtet/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_rdlgtet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Two-Dimensional Soft Quasicrystals in Systems with Two Length Scales</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_stsqstls/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_stsqstls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Small Deborah Number Limit of the Doi-Onsager Equation to the Ericksen-Leslie Equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2015_sdnldeee/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2015_sdnldeee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary Effects in Confined Copolymer System and Compressible SCFT Model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2014_beccscsm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2014_beccscsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformation of Polyelectrolytes in Poor Sol-vents: Variational Approach and Quantitative Comparison with Scaling Predictions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2014_cppsvaqcsp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2014_cppsvaqcsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Transition for Landau-Brazovskii Model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2014_dtlm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2014_dtlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Microscopic Theory to Macroscopic Theory - Symmetries and Order Parameters of Rigid Molecules</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2014_mtmt-soprm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2014_mtmt-soprm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is There a Third Order Phase Transition for Supercritical Fluids?</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2014_ittoptsf/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2014_ittoptsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods for Quasicrystals</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2014_nmq/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2014_nmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rigid Linear Particles Con ned on a Spherical Surface: Phase Diagram of Nematic Defect States</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2014_rlpcnsspdnds/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2014_rlpcnsspdnds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Strategy to Explore Stable and Metastable Ordered Phases of Block Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_sesmopbc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_sesmopbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tensor Model for Liquid Crystals on a Spherical Surface</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_tmlcss/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_tmlcss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of New Metastable Patterns in Diblock Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_dnmpdc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_dnmpdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Spontaneous Curvature of Bilayer Membranes by Molecular Dynamics Simulations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_mscbmmds/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_mscbmmds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Diffusion Equation for the Wormlike-chain Statistics in Curvilinear Coordinates</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_mdewscc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_mdewscc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nucleation Rate Calculation for the Phase Transition of Diblock Copolymers under Stochastic Cahn-Hilliard Dynamics</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_nrcptdcuscd/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_nrcptdcuscd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Study of Quasi-Ballistic Transport in Asymmetric DG-MOSFET by Directly Solving Boltzmann Transport Equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_ssqtaddsbte/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_ssqtaddsbte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-Posedness of the Ericksen-Leslie System</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2013_wes/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2013_wes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computable Modeling (Chinese)</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2012_cm/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2012_cm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computable Modeling(Chinese)</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2012_cm/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2012_cm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error estimate of short-range force calculation in inhomogeneous molecular systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2012_eesfcims/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2012_eesfcims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Study for the Nucleation of One-Dimensional Stochastic Cahn-Hilliard Dynamics</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2012_nsnoscd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2012_nsnoscd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Numerical Accuracy of Ewald Smooth Particle Mesh Ewald and Staggered Mesh Ewald Methods for Correlated Molecular Systems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2012_naespmesmemcms/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2012_naespmesmemcms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-Posedness of Hydrodynamics on the Moving Elastic Surface</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2012_whmes/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2012_whmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Finite Volume Method for the Multi Subband Boltzmann Equation with Realistic 2D Scattering in Double Gate MOSFETs</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2011_fvmmsber2sdgm/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2011_fvmmsber2sdgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of exposure to trace elements in the soil on the prevalence of neural tube defects in a high-risk area of China</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2011_eetespntdhac/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2011_eetespntdhac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the existence of a third-order phase transition beyond the Andrews critical point: A molecular dynamics study</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2011_etptbacpmds/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2011_etptbacpmds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of epitaxies between ordered phases of block copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2011_oebopbc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2011_oebopbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Nonhomogeneous Kinetic Model of Liquid Crystal Polymers and Its Thermodynamic Closure Approximation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2010_nkmlcpitca/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2010_nkmlcpitca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A numerical method for the study of nucleation of ordered phases</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2010_nmsnop/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2010_nmsnop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Existence and Uniqueness of the Dynamical Equations of an Incompressible Membrane in Two-Dimensional Space</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2010_leudeimts/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2010_leudeimts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nucleation of Ordered Phases in Block Copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2010_nopbc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2010_nopbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral method for exploring patterns of diblock copolymers</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2010_smepdc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2010_smepdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kinetic-Hydrodynamic Simulation of Liquid Crystalline Polymers Under Plane Shear Flow: 1&#43;2 Dimensional Case</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_kslcpupsf1dc/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_kslcpupsf1dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Stroud stochastic collocation method for flow in random porous media via Karhunen-Loeve expansion</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_asscmfrpmke/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_asscmfrpmke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient numerical method of Landau-Brazovskii model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_enmlm/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_enmlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary treatments in non-equilibrium Green&#39;s function(NEGF) methods for quantum transport in nano-MOSFETs</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_btngfmqtn/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_btngfmqtn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crucial properties of the moment closure model FENE-QE</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_cpmcmf/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_cpmcmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global existence of weak solutions to the regularized Hookean dumbbell model</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_gewsrhdm/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_gewsrhdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of fluid membranes in two-dimensional space</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_nsfmts/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_nsfmts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of phase separation coupled with crystallization</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_nspscc/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_nspscc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the New Multiscale Rodlike Model of Polymeric Fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_nmrmpf/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_nmrmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection/transmission characteristics of a dis-continuous Galerkin method for Maxwell&#39;s equations in dispersive inhomogeneous media</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_rcdgmmedim/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_rcdgmmedim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second-order accurate Godunov scheme for multicomponent flows on moving triangular meshes</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2008_sagsmfmtm/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2008_sagsmfmtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cellular automaton technique for modelling of a binary dendritic growth with convection</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_catmbdgc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_catmbdgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A kinetic-hydrodynamic simulation of microstructure of liquid crystal polymers in plane shear flow</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_ksmlcppsf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_ksmlcppsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the heterogeneous multiscale method for parabolic homogenization problems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_ahmmphp/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_ahmmphp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuum theory of a moving membrane</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_ctmm/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_ctmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-order DGTD methods for dispersive Maxwell&#39;s equations and modeling of silver nanowire Coupling</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_hdmdmemsnc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_hdmdmemsnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Level set calculations for incompressible two-phase flows on a dynamically adaptive grid</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_lscitfdag/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_lscitfdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical analysis of multi-scale models of complex fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_mammcf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_mammcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-equilibrium molecular-dynamics measurement of the Leslie coefficients of a Gay-Berne nematic liquid crystal</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_nmmlcgnlc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_nmmlcgnlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable dynamic states at the nematic liquid crystals in weak shear flow</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_sdsnlcwsf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_sdsnlcwsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steady states and their stability of homogeneous rigid extended nematic polymers under imposed magnetic fields</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2007_sstshrenpuimf/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2007_sstshrenpuimf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Molecular Kinetic Theory of Inhomogeneous Liquid Crystal Flow and the Small Deborah Number Limit</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mktilcfsdnl/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mktilcfsdnl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence analysis of BCF method for Hookean dumb-bell model with finite difference scheme</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_cabmhdmfds/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_cabmhdmfds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local existence for the FENE-dumbbell model of polymeric fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_lefmpf/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_lefmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model analysis and parameter extraction for MOS capacitor including quantum mechanical effects</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mapemciqme/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mapemciqme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified models of polymer phase separation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mmpps/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mmpps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving mesh kinetic simulation for sheared rodlike polymers with high potential intensities</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mmkssrphpi/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mmkssrphpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving mesh methods for singular problems on a sphere using perturbed harmonic mappings</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mmmspsuphm/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_mmmspsuphm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of phase transition in homogeneous rigid extended nematics and magnetic suspensions using an order-reduction method</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2006_spthrenmsuom/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2006_spthrenmsuom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the heterogeneous multiscale method for elliptic homogenization problems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_ahmmehp/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_ahmmehp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axial symmetry and classification of stationary solutions of Doi-Onsager equation on the sphere with Maier-Saupe potential</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_ascssdesmp/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_ascssdesmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservative local discontinuous Galerkin methods for time dependent Schrodinger equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_cldgmtdse/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_cldgmtdse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin time domain(DGTD) methods for the study of 2-D waveguide-coupled microring resonators</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_dgtdms2wmr/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_dgtdms2wmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin time-domain method for GPR simulation in dispersive media</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_dgtmgsdm/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_dgtmgsdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving mesh finite element methods for the incompressible Navier-Stokes equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_mmfemine/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_mmfemine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of equilibrium solutions of one-dimensional Doi equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2005_sesode/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2005_sesode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new coupled model for alloy solidi cation Science in China series A-Mathematics</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_ncmascscsa/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_ncmascscsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theoretical and numerical study for the rod-like model of a polymeric fluid</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_tnsrmpf/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_tnsrmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of 1&#43;1 dimensional stochastic models of liquid crystal polymer flows</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_a1dsmlcpf/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_a1dsmlcpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discontinuous Galerkin methods for dispersive and lossy Maxwell&#39;s equations and PML boundary conditions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_dgmdlmepbc/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_dgmdlmepbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local existence for the dumbbell model of polymeric fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_ledmpf/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_ledmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic models of polymeric fluids at small Deborah number</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_smpfsdn/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_smpfsdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-posedness for the dumbbell model of polymeric fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2004_wdmpf/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2004_wdmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A kind of semi-roarsing AMG method for two dimensional energy equations with three temperatures</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2003_ksamtdeett/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2003_ksamtdeett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive mesh redistribution method for nonlinear hamiltonian-jacobi equations in two- and three dimensions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2003_amrmnhettd/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2003_amrmnhettd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale Methods for Inverse Modeling in 1-D Mos Capacitor</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2003_mmim1mc/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2003_mmim1mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Moving Mesh Finite Element Algorithm for Sin-gular Problems for Two and Three Space Dimensions</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_mmfeaspttsd/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_mmfeaspttsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of a Boundary Integral Method for 3-D Water Waves</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_cbim3ww/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_cbim3ww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of a stochastic method for the modeling of polymeric fluids</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_csmmpf/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_csmmpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetic Theories for Flows of Nonhomogeneous Rodlike Liquid Crystalline Polymers with a Nonlocal Intermolecular Potential</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_ktfnrlcpnip/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_ktfnrlcpnip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Studies of 2D Free Surface Waves with Fixed Bottom</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_ns2fswfb/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_ns2fswfb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singularity Formulation in Three-dimensional Vortex Sheets</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_sftvs/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_sftvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of Boundary Integral Method for Water Wave</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2002_sbimww/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2002_sbimww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Model of Soil Moisture Spatial Distribution on the Hill Slopes of the Loess Plateau</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2001_mmsmsdhslp/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2001_mmsmsdhslp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Stability Technique for Boundary Integral Methods of Water Waves</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2001_nstbimww/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2001_nstbimww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Moving Mesh Methods Based on Geometrical Variables</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2001_ammmbgv/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2001_ammmbgv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Mesh Methods in Multiple Dimensions Based on Harmonic Maps</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2001_mmmmdbhm/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2001_mmmmdbhm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Studies of Shallow Water Waves on Slopping Beach with Arti cial Boundary</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2001_nsswwsbacb/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2001_nsswwsbacb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating A Double Casting Technique Using Level Set Method</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2001_sdctulsm/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2001_sdctulsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanishing Curvature Viscosity for Front propagation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2000_vcvfp/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2000_vcvfp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelet Method for Boundary Integral Equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/2000_wmbie/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/2000_wmbie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth Rates for the Linearized Motion of 3-D Fluid Interfaces with Surface Tension Far from Equilibrium</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1998_grlm3fistfe/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1998_grlm3fistfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of vortex with boundary element methods</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1997_cvbem/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1997_cvbem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal L1 Rate of Convergence for Viscosity Method and Monotone Scheme to Piecewise Constant Solution with Shocks</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1997_olrcvmmspcss/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1997_olrcvmmspcss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of the point vortex methods for Euler equation on half plane</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1996_cpvmeehp/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1996_cpvmeehp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of vortex Methods in a bounded domain Using linear finite elements</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1996_cvmbdulfe/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1996_cvmbdulfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Well-posedness for linearizied motion of 3-D water waves far from equilibrium</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1996_wlm3wwfe/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1996_wlm3wwfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation of wavelet function</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1995_cwf/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1995_cwf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of variable-elliptic-vortex method for Euler equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1995_cvmee/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1995_cvmee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of vortex methods for Exterior problems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1994_cvmep/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1994_cvmep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully discrete convergence estimates for vortex methods in bounded domains</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1994_fdcevmbd/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1994_fdcevmbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On vortex methods for initial boundary problems</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1994_vmibp/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1994_vmibp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A family of viscous splitting schemes for Navier-Stokes equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1993_fvssne/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1993_fvssne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A sharp estimate of simplified viscosity splitting scheme</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1993_sesvss/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1993_sesvss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A symmetrical viscous splitting schemes for Navier-Stokes equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1993_svssne/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1993_svssne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exterior problem for the three-Dimensional Euler equation</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1992_eptee/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1992_eptee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscosity splitting with nonzero tangent boundary value</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1992_vsntbv/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1992_vsntbv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscous splitting for the exterior problem of Navier-Stokes equations</title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/publication/1991_vsepne/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/publication/1991_vsepne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.math.pku.edu.cn/pzhang/en/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.pku.edu.cn/pzhang/en/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
