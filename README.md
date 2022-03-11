@@ -307,3 +307,7 @@ parse用于存储处理脚本，包括将文献/group信息自动转成academic�
 - 20211011： 1.0.1
     - 增加 CSIAM Transactions on Applied Mathematics的编委
     - 根据李英老师提供的学生信息更新学生状态
+- 20220311: 1.1.0
+    - 增加一个奖项
+    - 增加一篇paper，修改了多篇paper的volume，page错误
+    - 相对应的，修改了对应的简历
