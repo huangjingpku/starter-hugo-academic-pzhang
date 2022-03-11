@@ -11,6 +11,7 @@ weight = 20  # Order that this section will appear.
 title = "Honors"
 subtitle = ""
 +++
+- Science and Technology Progress Award by Ho Leung Ho Lee Foundation(2021)
 - Academician of Chinese Academy of Sciences(2015)
 - Fellow of The World Academy of Sciences for the advancement of science in developing countries(2016) 
 - National Prize of Natural Sciences (Second-prize)(2014)

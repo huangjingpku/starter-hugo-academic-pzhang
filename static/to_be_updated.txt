@@ -1,0 +1,5 @@
+[done] 20220305
+from wangxm
+- new thesis：Yin, Jianyuan; Zhang, Lei; Zhang, Pingwen. Solution Landscape of the Onsager Model Identifies Non-axisymmetric Critical Points. Physica D: Nonlinear Phenomena, 430, 133081 (2022).
+- honor：2021年获何梁何利基金科学与技术进步奖
+

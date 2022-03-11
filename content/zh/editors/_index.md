@@ -12,54 +12,40 @@ title = "编委"
 subtitle = ""
 +++
 
-- CSIAM Transactions on Applied Mathematics（CSIAM-AM）
-    - Editorial Board, 2020 - present
+2020 -		           CSIAM Transactions on Applied Mathematics (Editor in Chief)
 
-- Applied Mathematical Research Express (AMRX)
-    - Editorial Board, 2002 - present
+2014 -		           Multiscale Modeling & Simulation, A SIAM Interdisciplinary Journal
 
-- Multiscale Modeling & Simulation
-    - Editorial Board, 2014 - present
+2013 -		           Science China Mathematics
 
-- Advances in Mathematics (CHINA)
-    - Editorial Board, 2010 - present
+2012 -		           Discrete and Continuous Dynamical System-B
 
-- Chinese Journal of Computational Mathematics (CJCM)
-    - Editorial Board, 2004 - present
+2011 -		           Journal of Mathematics in Industry (Coordinating Editors)
 
-- Chinese Journal of Computational Physics (CJCP)
-    - Associate Chief Editor, 2008 - present
-    - Editorial Board, 2004 - 2008
+2010 -		           Applied Mathematics and Mechanics;(Associate Chief Editor Since 2014)
 
-- Chinese Journal of Engineering Mathematics
-    - Editorial Board, 2007 - present
+2007 -		           Journal of Computational Mathematics
 
-- Chinese Journal of Mathematics
-    - Editorial Board, 2006 - present
+2006 -		           Communications in Computational Physics
 
-- Chinese Northeast Mathematical Journal
-    - Editorial Board, 2004 - present
+2006 -		           International Journal of Nonlinear Science
 
-- Communications in Computational Physics (CiCP)
-    - Associate Editor, 2005 - present
+2005 -		           Communication in Mathematical Sciences
 
-- Communication in Mathematical Sciences (CMS)
-    - Editorial Board, 2005 - present
+2005 -		           Journal of Information and Computational Science
 
-- International Journal of Nonlinear Science (IJNS)
-    - Editorial Board, 2006 - present
+2005 - 2013	           SIAM Journal on Numerical Analysis
 
-- Journal of Computational Mathematics (JCM)
-    - Associate Editor, 2007 - present
+2002 -		           Applied Mathematical Research Express (AMRX)
 
-- Journal of Information and Computational Science (JICS)
-    - Editorial Board, 2005 - present
+2010 -		           Advances in Mathematics (China)
 
-- Applied Mathematics and Mechanics (AMM)
-    - Editorial Board, 2010 - present
+2007 -  		      《工程数学学报》
 
-- Journal of Mathematics in Industry (JMI)
-    - Coordinating Editors, 2011 - present
+2006 -  		      《数学杂志》
 
-- Discrete and Continuous Dynamical System - B (DCDS-B)
-    - Editorial Board, 2012 - present
+2004 -  		      《计算数学》  
+
+2004 -  		      《计算物理》  
+
+2004 -  		      《东北数学》

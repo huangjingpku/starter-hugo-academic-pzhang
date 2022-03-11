@@ -44,7 +44,7 @@ def get_title(entry):
 
 
 def get_year(entry):
-    return '({}).'.format(supetrim(entry['year']))
+    return '{}'.format(supetrim(entry['year']))
 
 
 def get_author(entry):
@@ -62,16 +62,20 @@ def get_volumne_number(entry):
     vol_str = ''
     num_str = ''
     if 'volume' in entry and supetrim(entry['volume']) != '':
-        vol_str = 'Vol. ' + supetrim(entry['volume'])
+        #vol_str = 'Vol. ' + supetrim(entry['volume'])
+        vol_str = supetrim(entry['volume'])
     if 'number' in entry and supetrim(entry['number']) != '':
-        num_str = 'No. ' + supetrim(entry['number'])
-    return vol_str + ', ' + num_str
+        #num_str = 'No. ' + supetrim(entry['number'])
+        num_str = '(' + supetrim(entry['number']) + ')'
+    return vol_str + num_str
 
 def get_page(entry):
     page_str = ''
     if 'page' in entry and supetrim(entry['page']) != '':
         page_str = supetrim(entry['page'])
-    return page_str
+        return ':' + page_str
+    else:
+        return page_str
 
 def get_note_value(note_str, key):
     vs = note_str.split(',')
@@ -118,8 +122,8 @@ def get_citation(entry):
     vol_num = get_volumne_number(entry)
     year = get_year(entry)
     page = get_page(entry)
-    return ', '.join([author, title, journal, vol_num, page, year])
-
+    #return ', '.join([author, title, journal, vol_num, page, year])
+    return author + '. ' + title + '. ' + journal + ', ' + year + ', ' + vol_num + page + '.'
 
 if __name__ == "__main__":
     inputfile = main(sys.argv[1:])

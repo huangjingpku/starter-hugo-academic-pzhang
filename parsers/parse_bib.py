@@ -22,7 +22,7 @@ import datetime
 
 # 资源所在目录
 SRC_DIR='../static/publication/'
-DST_DIR='../content/zh/publication/'
+DST_DIR='../content/en/publication/'
 
 # It takes the type of the bibtex entry and maps to a corresponding category of the academic theme
 # Publication type.
