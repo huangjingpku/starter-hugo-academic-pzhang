@@ -23,14 +23,17 @@ zh:
       - name: 荣誉和奖励
         url: '#honors'
         weight: 20
-      - name: 数字生态指数
+      - name: 数字经济
         url: 'digiteco/'
-        weight: 25
+        weight: 34
       - name: 著作
         url: '#featured'
         weight: 30
+      - name: 学科建设
+        url: 'discipline_construction/'
+        weight: 35
       - name: 新闻
-        url: '#talks'
+        url: '#news'
         weight: 40
       - name: 编委
         url: 'editors/'

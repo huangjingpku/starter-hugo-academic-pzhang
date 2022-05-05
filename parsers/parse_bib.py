@@ -18,11 +18,12 @@ import bibtexparser
 import os, sys, getopt, shutil
 from citation_generator import construct_citation
 import datetime
+from xpinyin import Pinyin
 
 
 # 资源所在目录
 SRC_DIR='../static/publication/'
-DST_DIR='../content/en/publication/'
+
 
 # It takes the type of the bibtex entry and maps to a corresponding category of the academic theme
 # Publication type.
@@ -98,13 +99,13 @@ def get_author_link(string):
         #print("Author's " + string + " website is missing.")
     return out
 
+def get_pinyin(v):
+    # TODO: 拼音转换
+    p = Pinyin()
+    return p.get_pinyin(v).split('-')
 
-def generate_id(title, year):
-    trim_words = ['of', 'on', 'in', 'for', 'with', 'a', 'and', 'or', 'to', 'the', 'an', 'at', 'via', 'by', 'from']
-    vs = []
-    for v in title.lower().split():
-        if v not in trim_words:
-            vs.append(v)
+def generate_id(title, year, lang = 'en'):
+    # process year
     if year.strip() == '':
         raise ValueError('Empty year. Please use this year instead')
     try:
@@ -115,7 +116,25 @@ def generate_id(title, year):
     if year > this_year:
         raise ValueError('{} must before this year {}'.format(year, this_year))
 
-    return str(year) + '_' + (''.join([v[0] for v in vs])).upper()
+    # process title
+    if lang == 'en':
+        trim_words = ['of', 'on', 'in', 'for', 'with', 'a', 'and', 'or', 'to', 'the', 'an', 'at', 'via', 'by', 'from']
+        vs = []
+        for v in title.lower().split():
+            if v not in trim_words:
+                vs.append(v)
+        title_value = (''.join([v[0] for v in vs])).upper()
+
+
+    elif lang == 'zh':
+        vs = get_pinyin(title)
+        title_value = [v[0] for v in vs if len(v) > 0 and v[0].isalpha()]
+        title_value = ''.join(title_value).upper()
+
+
+    return str(year) + '_' + title_value
+
+
 
 def write_title(entry, the_file):
     the_file.write(
@@ -239,6 +258,8 @@ def write_selected(entry, the_file):
             the_file.write('featured = {}\n'.format(value))
         else:
             raise ValueError('Invalid feature value [{}] in [{}]'.format(value, entry['note']))
+        value = get_note_value(entry['note'], 'category')
+        the_file.write('categories = ["{}"]\n'.format(value))
     else:
         the_file.write('featured = false\n')
 
@@ -261,12 +282,14 @@ def copy_file(src_file, dst_file, tag = 'PDF'):
 
 
 
-def main(argv):
+def parse_command(argv):
     inputfile = ''
+    lang = 'en'
+    output_lang = ''
     try:
-        opts, args = getopt.getopt(argv, "hi:", ["ifile="])
+        opts, args = getopt.getopt(argv, "hi:l:o:", ["ifile="])
     except getopt.GetoptError:
-        print('parse_bib.py -i <inputfile>')
+        print('parse_bib.py -i <inputfile> -l <lang> -o <outputdir>')
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
@@ -274,11 +297,22 @@ def main(argv):
             sys.exit(2)
         elif opt in ("-i", "--ifile"):
             inputfile = arg
-    return inputfile
+        elif opt in ("-l"):
+            lang = arg
+        elif opt in ("-o"):
+            output_lang = arg
+    if output_lang == 'en':
+        outputdir = '../content/en/publication/'
+    elif output_lang == 'zh':
+        outputdir = '../content/zh/publication/'
+    else:
+        outputdir = './'
+
+    return inputfile, lang, outputdir
 
 
 if __name__ == "__main__":
-    inputfile = main(sys.argv[1:])
+    inputfile, lang, outputdir = parse_command(sys.argv[1:])
     try:
         with open(inputfile, encoding="utf8") as bibtex_file:
             bibtex_str = bibtex_file.read()
@@ -291,8 +325,8 @@ if __name__ == "__main__":
 
     # loop over entries
     for entry in bib_database.entries:
-        id = generate_id(entry['title'], entry['year'])
-        filedir = '{}/{}/'.format(DST_DIR, id)
+        id = generate_id(entry['title'], entry['year'], lang)
+        filedir = '{}/{}/'.format(outputdir, id)
         filenm = '{}/index.md'.format(filedir)
         pdf_src = '{}/{}.pdf'.format(SRC_DIR, id)
         pdf_dst = '{}/{}.pdf'.format(filedir, id)

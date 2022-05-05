@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Copyright (c) 2021 bianlifeng.com, Inc, All Rights Reserved
+# Copyright (c) 2021 Peking university, All Rights Reserved
 #
 """
 Receives a Bibtex file and produces the publication list for resume

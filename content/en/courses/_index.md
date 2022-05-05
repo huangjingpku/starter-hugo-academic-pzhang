@@ -11,20 +11,50 @@ weight = 60  # Order that this section will appear.
 title = "Courses"
 subtitle = ""
 +++
-
-- 2016
-    - Discussion on Multiscale Physical Problems
+- 2021
+    - Discussion on Multiscale Physical Problems (00112510)
     - Research Based Learning
+- 2020
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Big Data Modeling Method (00101819)
+- 2019
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Numerical Analysis (00130560)
+- 2018
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Numerical Analysis (00130560)
+- 2017
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Big Data Modeling Method (00101819)
 - 2016
-    - Discussion on Multiscale Physical Problems
+    - Discussion on Multiscale Physical Problems (00112510)
     - Research Based Learning
+- 2015
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Research Based Learning
+- 2014
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Multiscale Modeling and Computational Methods (00112690)
+    - Research Based Learning 
+- 2013
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Research Based Learning 
+- 2012
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Research Based Learning
+- 2011
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Multiscale Modeling and Computational Methods (00112690)
+- 2010
+    - Discussion on Multiscale Physical Problems (00112510)
+    - Multiscale Modeling and Computational Methods (00112690)
 - 2009
     - Discussion on Multiscale Physical Problems (00112510)
-    - Multiscale Modeling and Computational Methods (00112530)
+    - Multiscale Modeling and Computational Methods (00112690)
 - 2008
     - Discussion on Multiscale Physical Problems (00112510)
     - Mathematical Theory of Inverse Problems (00112530)
-    - Finite Element Methods II (00112530)
+    - Finite Element Methods II (00111850)
 - 2007
     - Discussion on Multiscale Physical Problems (00112510)
     - Mathematical Theory of Inverse Problems (00112530)

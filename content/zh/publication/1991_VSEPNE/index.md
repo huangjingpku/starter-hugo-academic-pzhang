@@ -19,4 +19,5 @@ publication = "Zhang P. (1991). Viscous splitting for the exterior problem of Na
 math = true
 highlight = true
 featured = false
+categories = ["test"]
 +++
