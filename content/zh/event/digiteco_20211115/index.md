@@ -18,7 +18,7 @@ abstract: 从几个日常案例入手，让听众了解到何为数字经济，�
 publishDate: "2021-11-15T00:00:00Z"
 
 authors: []
-tags: []
+tags: ['digiteco']
 
 # Is this a featured talk? (true/false)
 featured: false

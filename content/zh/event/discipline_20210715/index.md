@@ -1,13 +1,13 @@
 ---
-title: 数字经济与数字生态
+title: 《数学促进企业创新》
 
-event: 北京大学前沿工程博士专业学位课程讲座
+event: 北京大学中央企业提高创新能力专题研讨班
 #event_url: https://www.csiam.org.cn/home/article/detail/id/1566.html
 
-location: 北京，北京大学
+location: 北京大学
 
 
-abstract: 首先通过若干理论探讨和客观现象来阐述数字经济的重要性，然后对数字经济领域中的几个重要问题，即数据生产要素特征、数字化转型规律、以及数字经济如何评估等进行深入分析，并强调构建数字生态的重要性，最后对北京大学在数字经济和数字生态方面已经开展的一些工作做简要介绍。
+abstract: 首先通过当前中美竞争的形势来阐明科技创新的重要性，然后从数学发展的驱动力和价值观来分析科技创新离不开数学的深度参与，接下来通过对企业数字化转型的分析说明企业中的问题几乎都与数学相关，并以华为模式为例介绍数学将如何促进企业创新，最后对北京大学如何在其中发挥作用进行了思考。
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 #date: "2021-10-08T13:00:00Z"
@@ -15,10 +15,10 @@ abstract: 首先通过若干理论探讨和客观现象来阐述数字经济的�
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-03-05T00:00:00Z"
+publishDate: "2021-07-15T00:00:00Z"
 
 authors: []
-tags: []
+tags: ['discipline']
 
 # Is this a featured talk? (true/false)
 featured: false
